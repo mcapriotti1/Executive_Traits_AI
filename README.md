@@ -7,7 +7,7 @@ To utilize the features of this repository, please ensure that you have Chrome i
 You will also need to run Chrome with remote debugging enabled using the command:  
 `chrome --remote-debugging-port=9222`.
 
-Also ensure that you leave the Chrome browser open otherwise Pyppeteer does not function properly. The way the dats is formatted compacts a lot of information into single messages, but if you were to feed too much data into ChatGPT within a given time frame it will stop responding (about 122,880 per hour), in which case you will have to split the data up, or simply add your own delays every given amount of messages.
+Also ensure that you leave the Chrome browser open otherwise Pyppeteer does not function properly. The way the dats is formatted compacts a lot of information into single messages, but if you were to feed too much data into ChatGPT within a given time frame it will stop responding (about 122,880 tokens per hour), in which case you will have to split the data up, or simply add your own delays every given amount of messages.
 
 ## Required Libraries
 
