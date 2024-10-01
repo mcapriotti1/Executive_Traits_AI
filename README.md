@@ -1,11 +1,13 @@
 # Executives_Traits_AI
 
-**Executives_Traits_AI** is a powerful repository designed to extract and analyze executive data using ChatGPT. While primarily focused on executive traits, the methodologies implemented in this repository can be adapted to any data type by updating the formatting. The framework leverages **Pyppeteer** for web automation, allowing for a seamless interaction with online platforms.
+**Executives_Traits_AI** is a  repository designed to extract and analyze data using ChatGPT. While the specific method is primarily focused on determining executive traits, the methodologies implemented in this repository can be adapted to any data type by updating the formatting. The process involves several key steps: extracting data from a spreadsheet, converting images to text, applying general text formatting, implementing specific formatting for GPT input, and finally running the files through ChatGPT before copying the output. The framework leverages **Pyppeteer** for web automation.
 
 To utilize the features of this repository, please ensure that you have Chrome installed at the following path:  
 `C:\Program Files\Google\Chrome\Application`.  
 You will also need to run Chrome with remote debugging enabled using the command:  
 `chrome --remote-debugging-port=9222`.
+
+Also ensure that you leave the Chrome browser open otherwise Pyppeteer does not function properly. Also the data is quite compacted, but if somehow there is too much data ChatGPT will stop responding (about 30 messages in 1 hour), in which case you will have to split the data up, or simply add your own delays.
 
 ## Required Libraries
 
@@ -21,13 +23,6 @@ To run this project, make sure to install the following libraries:
 - `pyperclip`
 - `pandas`
 - `re`
-
-## Features
-
-- **Data Extraction**: Efficiently extract data from Excel spreadsheets, making it accessible for further analysis.
-- **Executive Traits Analysis**: Analyze and derive insights related to executive traits.
-- **Web Automation**: Utilize Pyppeteer for automating web tasks and interactions.
-- **Adaptability**: Easily adapt the repository for various data types with appropriate formatting adjustments.
 
 ## Summary of Sections
 
