@@ -58,7 +58,3 @@ A convenient function to reset the repository and prepare it for a new data file
 ## Future Enhancements
 
 Looking ahead, there are plans to enhance the functionality of this repository to process multiple files concurrently. For now, the system allows for customization, enabling users to run one file at a time while maintaining flexibility in their data analysis workflow.
-
----
-
-Feel free to modify any section according to your preferences or specific project requirements!
