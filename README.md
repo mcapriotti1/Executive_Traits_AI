@@ -32,7 +32,7 @@ This section provides a framework for extracting data from Excel files. The spec
 
 ### Image to Text
 
-Convert images to text using `pytesseract`, enabling the transformation of visual data into a format that can be analyzed and processed.
+Convert images to text using `pytesseract` Optical Character Recognition (OCR), enabling the transformation of visual data into a format that can be analyzed and processed.
 
 ### File Formatting
 
