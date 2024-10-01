@@ -1,0 +1,336 @@
+I'm going to give you information and I want you to read it and answer questions. The text was transferred from image-text so some of it might not make much sense, use your best judgment to guess what certain words are. I will give you preliminary information in this format: (number)ҨcompanyҨnameҨpositionҨ. The number represnts the assinged number for each person. This will be followed by text that I want you to use to answer the following questions. I will give you multiple different texts separated by this symbol Ɬ, answer the questions for each text individually. You MUST BE 80% confident to answer, otherwise leave it blank. 1. Description: The company mentioned in prelimnary information also contains the location, just look at the first part of the text which doesnt have numbers as that contains the company name. If the company in preliminary information is present at all, check all text to ensure weather it is presnt or not present in the text, or a only certain parts of a company name, or a company which seems to have a similar name, say yes (sometimes it will be abberviated). Most of the time this answer will be yes. Answer: Yes or No 2. Co: Description: Do nothing with this. Leave blank. 3. Description: Based on their line of work, is it the same industry, a different industry, or multiple industries compared to the earlier company? Use the name of the listed company and see if it mentions that they did that work. Most of the time this answer will be same. Answer: Same, Different, or Multiple 4. At Time of Death - Still at Firm: Description: Were they still at the firm when they died, or had they already retired/changed to a different company? Most of the time this answer will be yes, only answer no if it specifically says they left the company before their death or retired. Answer: Yes or No 5. Title Change: Description: Is their title at the company different from the one listed in the preliminary information? If the answer to this is no leave it blank. Answer: Yes or leave blank 6. New Title: Description: Only answer if the Title Change answer was Yes. What is their new title? Answer: New Title 7. Year Started at Firm, or Years at Firm: Description: What year did they first start working at the firm listed, or how many years have they worked there? If this is not provided leave it blank. Answer: Year or Years 8. Year Started in Field, or Years in Field: Description: What year did they first start working in their field/industry, or how many years have they worked in their field? If this is not provided leave it blank. Answer: Year or Years 9. Initial Title: Description: What was their initial title when they first joined the company? Answer: Initial Title 10. Director's Relation to Our Firm or Sector: Description: All the following must refer to the company given in the preliminary information or the same sector as the company in the prelimnary information, otherwise leave blank. Work their way up to an executive position over time (Career), founded the company (Founder), family member who founded the company (Family Founder), serve as the lawyer for the company (Lawyer), travel around in meetings for the company (Itinerant), or previously founded/worked at a company and then instantly became an executive at the preliminary company (Capitalist)? Answer: Career, Founder, Family Founder, Itinerant, Capitalist, or Lawyer 11. Additional Info Related to Firm: Description: Did they have a bank seat at their firm? If No just leave it blank. Answer: Yes or leave blank 12. Other Directorships Mentioned: Description: Were there other companies they were associated with? Answer: Yes or No 13. Director's Main Sector: Description: What was the sector the director was primarily associated with? Answer: Sector 14. If Banker - Cbank or Ibank: Description: If their sector was banking, were they more associated with commercial or investment banking? Answer: Cbank or Ibank 15. University/College: Description: If they attended a university or college, what was the name of the school? Answer: Name of the School 16. Director's Main Company: Description: Is the company listed in the preliminary information their main company? Answer: Yes or No 17. Other Affiliated Companies: Description: If the answer to the previous question was No, name the company the director seemed most associated with. Answer: Company Name 18. Former CEO Now Director: Description: Were they formerly a CEO and are now just a director? If the answer is no just leave blank. Answer: Yes or leave blank 19. Additional Notes: Description: Leave blank most of the time, unless something goes very wrong, for example if there is almost no information, write 'no information' Answer: 'no information'. Instructions for Output Formatting: Answer all questions in the specified format. Do not repeat the titles of the answer choices in your response, or any text besides the exact output format shown later. Do not add extra text, line spaces, or enters between different sets of answers. The answers should be a continuous block of text, not a list format. For each question, use the question number followed by a period, then provide the answer directly after the period. If there is no answer for a question, leave it blank but still include the question number followed by a period. Always number from 1 to 19, ensuring that each question is accounted for. Include the assigned number in the format Ɬ(number)Ɬ at the beginning of each block of answers. Do not include any titles, like Text_1. Follow this Output exactly: Ɬ(assigned number)Ɬ1. answer 2. answer 3. answer 4. answer 5. answer 6. answer 7. answer 8. answer 9. answer 10. answer 11. answer 12. answer 13. answer 14. answer 15. answer 16. answer 17. answer 18. answer 19. answer20ꞭҨValley Industries, Inc., 900 Walnut St., St. Louis 63102ҨGILLIGAN, PATRICK JOSEPHҨPres, Chief Oper Officer & DirҨ Patrick Gilligan; Civic Leader,
+ President Of Valley Industries
+ 
+ Patrick J. Gilligan, president and
+ chief financial officer of Valley Indus-
+ tries Inc., died Monday (March 4,
+ 1991) at his home in St. Louis Hills
+ after suffering a heart attack. He was
+ 64,
+ 
+ Mr. Gilligan began his career in
+ 1951 as an accountant at Valley Steel
+ Products, a division of Valley Indus-
+ tries, 2 company that processes, de-
+ signs and distributes a broad range of
+ steel and industrial products.
+ 
+ He held various posts in the compa-
+ ny before he was appointed president
+ of Valley Industries in 1973. He also
+ served on the companys board of di-
+ rectors and as vice president of Valley
+ Steel.
+ 
+ Born in Galway, Ireland, he came to
+ this country when he was 22 and at-
+ tended night classes at St. Louis Uni-
+ versity, where he earned a bachelors
+ degree in accounting.
+ 
+ He was a supporter of numerous
+ civic and charitable organizations.
+ Under his leadership, Valley Indus-
+ tries was a leading contributor to the
+ Post-Dispatchs annual 100 Neediest
+ Cases campaign.
+ 
+ Mr. Gilligan took great pride in his
+ Irish heritage. In 1988, he was honor-
+ ary marshal of the St. Patrick's Day
+ 
+ Parade. He also
+ was president of
+ the St. Louis-Gal-
+ way sister cities
+ program and on
+ the board of di-
+ rectors of the St.
+ Louis Variety
+ Club.
+ 
+ A memorial
+ Mass will be cele-
+ brated at 10 a.m.
+ Thursday at St.
+ Gabriels Church,
+ 6303 Nottingham Avenue. The body
+ was donated to the St. Louis Universi-
+ ty School of Medicine.
+ 
+ Among the survivors are his wife,
+ Peggy Gilligan; two daughters, Kath-
+ leen Gilligan and Ann Hancock, both
+ of St. Louis; six sons, Francis Gilligan,
+ James Gilligan and Shawn Gilligan,
+ all of St. Louis, and Patrick Gilligan Jr.
+ of Pacific, Mark Gilligan of Oakville,
+ and Michael Gilligan of Fort Collins,
+ Colo.; two brothers, Michael Gilligan
+ and Francis Gilligan, both of Galway;
+ a sister, Mary Brennan of Galway; and
+ 1] grandchildren.
+ 
+ Memorial contributions may be
+ made to St. Vincents Church, 922
+ Park Avenue, St. Louis, Mo. 63104.
+ 
+ Gilligan Ɬ
+21ꞭҨWausau Paper Mills Co., One Clark Island, Wausau, Wis. 54401ҨGOGGINS, WILLIAM L.ҨPres, Chief Exec Officer & DirҨ William L. Goggins
+ William L. Goggins, 54, 4200 W.
+ Wausau Ave.,
+ Wausau,
+ President
+ and Chief Ex-
+ ecutive Offi-
+ cer of the
+ Wausau
+ Paper Mills
+ Company,
+ died unex-
+ pectedly late 2
+ won dey et William L.
+ 11, 1989. G0ggins
+ He was born Jan. 7, 1935, in Fort
+ Benton, Montana, the son of the
+ late William Goggins and Cather-
+ ine (Minkler) Goggins.
+ Bill attended St. Mary's Grade
+ School in Bismarck, North Dakota
+ _and St. Johns Preparatory School
+ in Collegeville, Minnesota. In 1965,
+ he received a B.A. degree in Busi-
+ ness Administration from Mar-.
+ quette University in Milwaukee.
+ 
+ In 1977 Bill joined the Wausau
+ Paper Mills Company as Vice Presi-
+ dent of Finance for the corporation.
+ In 1979 he was promoted to Vice
+ President and General Manager of
+ the Brokaw Division. Again in 1983
+ he was promoted to Vice President
+ of operations for the entire corpora-
+ tion. In 1987 he was appointed
+ President and Chief Executive Offi-
+ cer for the corporation. Prior to
+ joining Wausau Papers, he held
+ several management positions with
+ the Philip Morris Company. The
+ company posted record profits
+ under his leadership and signifi-
+ cantly upgraded and expanded
+ manufacturing facilities which will
+ position the company for continued
+ strong growth.
+ 
+ He was very active in the com-
+ munity and his memberships in-
+ cluded the Board of Directors for
+ the M & I First American National
+ Bank, Vice Chairman of the Wau-
+ sau Hospital Center Board of Di-
+ rectors, Vice Chairman of the Com-
+ munity Health Care, Inc. Board of
+ Directors, Board of Directors of the
+ Leigh Yawkey Woodson Art Mu-
+ seum, the Parent Advisory Com-
+ mittee at St. Benedictss College in
+ St. Joseph, Minnesota, the Wiscon-
+ sin Paper Council, the Wisconsin
+ Valley Improvement Company,
+ Board Member of the Wausau
+ YMCA Foundation, Inc., the
+ Hmong Advisory Task Force, the
+ Governor's Club, and the United
+ Way Summit League.
+ 
+ One of his special loves was
+ horses. He was a member of the
+ American Quarter Horse Associa-
+ tion and served as Director of Dis-
+ trict II of the Wisconsin Quarter
+ Horse Association.
+ 
+ Survivors include, his wife, Ei-
+ leen Goggins, Wausau; five daugh-
+ ters, Mary (Thomas)-Schultz, Mara-
+ thon, Susan (John) McMahon, Syra-
+ cuse, New York, Michaele (Kevin)
+ Casey, Navato, California, Beth
+ Goggin, St. Benedicts College, St.
+ Joseph, Minnesota, and Rebecca
+ Goggins, a student at Newman
+ High School, Wausau; two sons,
+ William (Loretta) Goggins, Hart-
+ land, Wis. and Shawn (Renae) Gog-
+ gins, Rib Mountain; 11 grandchil-
+ dren; and one brother, Patrick (Ute)
+ Goggins, Mill Valley, California.
+ 
+ Family services will be held at 10
+ am. Friday at the Kraemer
+ Funeral Home, Wausau. A Mass of
+ Resurrection will follow at 10:30
+ a.m. Friday at St. Matthew's Catho-
+ lic Church, 28th Ave., Wausau. The
+ Concelebrants will be Fr. John
+ Malik and Fr. David Funk, O.F.M. |
+ Cap. Burial will be in Restlawn Me-
+ morial Park. Friends may call on
+ Thursday afternoon from 4:00 to
+ 9:00 p.m. at the Kraemer Funeral
+ Home, Wausau, and again Friday
+ morning from 8:00 a.m. until the
+ hour of services at the funeral
+ home. A Bible Vigil will be held at
+ 8:00 p.m. Thursday evening at the
+ funeral home.
+ 
+ . Some of Bill's closest friends and
+ associates will serve as pallbear-
+ ers. They are Gary Tesch, Larry
+ Baker, Harvey Mathison, John
+ Trucco, J.0. Evans, Lance Trep-
+ 
+ tow, and Patrick Crooks.
+ A memorial has been established
+ 
+ for the Scholarship Fund at Wau-
+ sau Newman High School. Contri-
+ butions may be sent to the William
+ Goggins Memorial Fund, in care of
+ Kraemer Funeral Home, 3400
+ Stewart Avenue, Wausau, WI
+ 54401. |
+ William Goggins
+ 
+ WAUSAU, Minn.  William L.
+ Goggins, 54, Wausau, Minn., died
+ Dec. 11, 1989. Services will be held
+ at 10:30 am. Friday at St. Mat-
+ thews Catholic curch, Wausau,
+ with the Revs. John Malik and
+ David Funk officiating. Burial will
+ be in Restlawn Cemtery, Wausau.
+ 
+ Mr. Goggins was born Jan. 7,
+ 1935, at Fort Benton, Mont. He
+ attended St. Marys Grade School,
+ Bismarck, and St. Johns Prepara-
+ tory School, Collegeville, Minn. He
+ graduated from Marquette Univer-
+ sity, Milwaukee, in 1965. He joined
+ Wausau Paper Mills Co. in 1977 and
+ was promoted to vice president of
+ operations in 1983. He was appoint-
+ ed president and chief executive
+ officer in 1987. He had previously
+ worked for Philip Morris Co.
+ 
+ He was very active in the com-
+ munity.
+ 
+ He is survived by his wife; Ei-
+ leen; five daughters, Mrs. Thomas
+ (Mary) Schultz, Marathon, Minn.,
+ Mrs. John (Susan) McMahon, Syra-
+ cuse, N.Y., Mrs. Kevin (Michael)
+ Casey, Navato, Calif., Beth Gog-
+ gins, St. Joseph, Minn., and Rebec-
+ ca Goggins, at home; two sons,
+ William, Hartland, Wis., and
+ Shawn, Rib Mountain, Minn.; and
+ one brother, Patrick, Mill Valley,
+ Calif.
+ Wausau Paper Mills
+ 
+ executive killed
+ 
+ WAUSAU  William L. Goggins,
+ president of Wausau Paper Mills Co., died
+ Monday in a single-car crash, authorities
+ said.
+ 
+ Larry Baker, a vice president at Wausau
+ Paper Mills, said San W. Orr Jr., chairman
+ of the firms executive committee, has
+ been named acting chief executive officer
+ of the company, which has paper mills in
+ Brokaw and Rhinelander. r
+ 
+ Goggins, 54, joined Wausau Paper Mills
+ in 1977 and was named president in 1987. Ɬ
+22ꞭҨSterling, Grace Capital Management L.P., 515 Madison Ave., New York 10022ҨGRACE, OLIVER R.ҨGen PartnerҨ Oliver R. Grace, 82; served as
+ chairman of Andersen Group
+ 
+ Oliver Russell Grace, chairman of
+ the Andersen Group Inc. of Bloom-
+ field from 1953 to 1990, died Thurs-
+ day of a heart attack. He was 82 and
+ lived in Oyster Bay, N.Y.
+ 
+ Mr. Grace was an initial investor
+ in Andersen Laboratories Inc., the
+ forerunner of the Andersen Group.
+ The company pioneered the develop-
+ ment of missile detection radars,
+ including the Patriot Missile system
+ used in the Persian Gulf war.
+ 
+ He became vice president of An-
+ dersen Group in 1990, when his son,
+ Oliver R. Grace Jr., became chair-
+ man.
+ 
+ In 1936, he became a founding
+ partner of Sterling, Grace and Co. in
+ New York City, a member of the
+ New York Stock Exchange.
+ 
+ Mr. Grace was also co-founder of
+ the Cancer Research Institute Inc. in
+ New York City, and served as presi-
+ dent and chairman. He was a trustee
+ of the Cold Spring Harbor Laborato-
+ ry, a genetic research institute, and
+ was a member of its executive com-
+ mittee.
+ 
+ He served on boards of the Nation-
+ al Institute of Social Sciences and
+ 
+ the Theodore Roosevelt Association.
+ He was also a trustee of Franklin
+ College in Switzerland.
+ 
+ Mr. Grace was a 1930 graduate of
+ Yale University.
+ 
+ He is survived by his wife, Lor-
+ raine Graves Grace; two daughters,
+ Lori Grace of Tiburon, Calif., and
+ Gwendolyn Kull of Bethesda, Md.;
+ two sons, Oliver R. Grace Jr. of
+ Locust Valley, N.Y., and John S.
+ Grace of Manalapan, Fla.; three
+ daughters from a previous mar-
+ riage, Helen Spencer of Greenwich,
+ Anne Kelly of Montecito, Calif., and
+ Ruth Jervis of Bel Air, Calif; two.
+ brothers Morgan H. Grace of Great
+ Neck, N.Y., and Robert M. Grace of
+ Palm Beach, Fla.; and 20 grandchil-
+ dren and one great-grandchild.
+ 
+ Services will be held 11:30 a.m.
+ Tuesday at St. Johns Episcopal
+ Church, Cold Spring Harbor, Long
+ 
+ land, N.Y.
+ 
+ Contributions may be made to the
+ Cancer Research Institute Inc., 133
+ E. 58th St., New York, N.Y., or Cold
+ Spring Harbor Laboratory, Cold
+ Spring Harbor, N.Y. Ɬ

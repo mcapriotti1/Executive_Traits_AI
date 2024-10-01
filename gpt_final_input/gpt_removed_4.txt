@@ -1,0 +1,306 @@
+I'm going to give you information and I want you to read it and answer questions. The text was transferred from image-text so some of it might not make much sense, use your best judgment to guess what certain words are. I will give you preliminary information in this format: (number)ҨcompanyҨnameҨpositionҨ. The number represnts the assinged number for each person. This will be followed by text that I want you to use to answer the following questions. I will give you multiple different texts separated by this symbol Ɬ, answer the questions for each text individually. You MUST BE 80% confident to answer, otherwise leave it blank. 1. Description: The company mentioned in prelimnary information also contains the location, just look at the first part of the text which doesnt have numbers as that contains the company name. If the company in preliminary information is present at all, check all text to ensure weather it is presnt or not present in the text, or a only certain parts of a company name, or a company which seems to have a similar name, say yes (sometimes it will be abberviated). Most of the time this answer will be yes. Answer: Yes or No 2. Co: Description: Do nothing with this. Leave blank. 3. Description: Based on their line of work, is it the same industry, a different industry, or multiple industries compared to the earlier company? Use the name of the listed company and see if it mentions that they did that work. Most of the time this answer will be same. Answer: Same, Different, or Multiple 4. At Time of Death - Still at Firm: Description: Were they still at the firm when they died, or had they already retired/changed to a different company? Most of the time this answer will be yes, only answer no if it specifically says they left the company before their death or retired. Answer: Yes or No 5. Title Change: Description: Is their title at the company different from the one listed in the preliminary information? If the answer to this is no leave it blank. Answer: Yes or leave blank 6. New Title: Description: Only answer if the Title Change answer was Yes. What is their new title? Answer: New Title 7. Year Started at Firm, or Years at Firm: Description: What year did they first start working at the firm listed, or how many years have they worked there? If this is not provided leave it blank. Answer: Year or Years 8. Year Started in Field, or Years in Field: Description: What year did they first start working in their field/industry, or how many years have they worked in their field? If this is not provided leave it blank. Answer: Year or Years 9. Initial Title: Description: What was their initial title when they first joined the company? Answer: Initial Title 10. Director's Relation to Our Firm or Sector: Description: All the following must refer to the company given in the preliminary information or the same sector as the company in the prelimnary information, otherwise leave blank. Work their way up to an executive position over time (Career), founded the company (Founder), family member who founded the company (Family Founder), serve as the lawyer for the company (Lawyer), travel around in meetings for the company (Itinerant), or previously founded/worked at a company and then instantly became an executive at the preliminary company (Capitalist)? Answer: Career, Founder, Family Founder, Itinerant, Capitalist, or Lawyer 11. Additional Info Related to Firm: Description: Did they have a bank seat at their firm? If No just leave it blank. Answer: Yes or leave blank 12. Other Directorships Mentioned: Description: Were there other companies they were associated with? Answer: Yes or No 13. Director's Main Sector: Description: What was the sector the director was primarily associated with? Answer: Sector 14. If Banker - Cbank or Ibank: Description: If their sector was banking, were they more associated with commercial or investment banking? Answer: Cbank or Ibank 15. University/College: Description: If they attended a university or college, what was the name of the school? Answer: Name of the School 16. Director's Main Company: Description: Is the company listed in the preliminary information their main company? Answer: Yes or No 17. Other Affiliated Companies: Description: If the answer to the previous question was No, name the company the director seemed most associated with. Answer: Company Name 18. Former CEO Now Director: Description: Were they formerly a CEO and are now just a director? If the answer is no just leave blank. Answer: Yes or leave blank 19. Additional Notes: Description: Leave blank most of the time, unless something goes very wrong, for example if there is almost no information, write 'no information' Answer: 'no information'. Instructions for Output Formatting: Answer all questions in the specified format. Do not repeat the titles of the answer choices in your response, or any text besides the exact output format shown later. Do not add extra text, line spaces, or enters between different sets of answers. The answers should be a continuous block of text, not a list format. For each question, use the question number followed by a period, then provide the answer directly after the period. If there is no answer for a question, leave it blank but still include the question number followed by a period. Always number from 1 to 19, ensuring that each question is accounted for. Include the assigned number in the format Ɬ(number)Ɬ at the beginning of each block of answers. Do not include any titles, like Text_1. Follow this Output exactly: Ɬ(assigned number)Ɬ1. answer 2. answer 3. answer 4. answer 5. answer 6. answer 7. answer 8. answer 9. answer 10. answer 11. answer 12. answer 13. answer 14. answer 15. answer 16. answer 17. answer 18. answer 19. answer12ꞭҨMaui Land & Pineapple Co., Inc., Kane St., Kahului, Maui, Hawaii 96732ҨCAMERON, COLIN C.ҨChrm & PresҨ Maui businessman Colin C: Cameron dies
+ 
+ WAILUKU (AP)} Promi- Paramedics applied cardio- - Cameron. was chlineen and
+ nent Maui businessman Colin pulmonary resuscitation but ~ chief executive officer of Maui
+ C. Cameron died Friday while were ble to revive  _, tsa pose 000 ce %
+ 
+ swimmming near his home. tron. He was
+ He was 65.
+ 
+ Captain Mark Paranda of .
+ the Maui Fire Department said . John | | neighbor, di ne ook Kapalua. r mipacee
+ Cameron was. found floating said h s Cameron had §-communit also was pre: children and a sister, Cameron
+ face down at the edge of the a heart attack in the water and = dk Maui Publi -Co., and Andelin were married last
+ water near his Stable Road died immediately. Camero owner of the Maul News. fall. His first vite died in
+ home in Spreckelsville, had a history of heart troub 01 director of sev- 1986. en Ɬ
+13ꞭҨCopps Corp., 2828 Wayne St., Stevens Point, Wis. 54481ҨCOPPS, DONALD W.ҨDirҨ Former Copps
+ chairman dies
+ 
+ Donald W. Copps, former
+ chairman of the board and chief
+ executive of the Copps Corp. died
+ Tuesday morning in Stevens
+ Point. Copps suffered from a
+ series of strokes over the past
+ two years.
+ 
+ Upon graduating from Carroll
+ College in 1937, he joined the
+ Copps Corp. as a representative
+ of the third generation in the
+ family business. In 1970, he was
+ named president and chief exec-
+ utive officer and was later nam-
+ ed chairman of the board and
+ CEO, a position he held from
+ 1977 until his retirement in 1980.
+ He is survived by his wife Mary
+ Jane and five children.
+ 
+ Funeral services will be con-
+ ducted Friday at St. Stanisiaus
+ Church, 8383 Fremont Street,
+ Stevens Point, at 10a.m.
+ supermarket executive
+ Donald Copps dies at 76
+ 
+ Donald W. Copps, 76, former chair-
+ man of the board and chief executive
+ of the Copps Corp., died Tuesday
+ morning, Aug. 14, 1990, in Stevens
+ Point.
+ 
+ Copps had had a series of strokes
+ over the past two years.
+ 
+ After receiving a bachelor of
+ science degree from Carroll College,
+ Waukesha, he joined the Copps
+ Corp., representing the third genera-
+ tion in the family business.
+ 
+ Copps initiated the business entry
+ into fresh fruits and vegetables.
+ Upon becoming executive vice presi-
+ dent, he helped establish the first of
+ many corporately owned supermar-
+ kets, the first discount food stores
+ and the predecessor of the present-
+ day Copps Food Centers.
+ 
+ In 1970, he was named president
+ and chief executive officer; from
+ 1977 until his retirement in 1980, he
+ was chairman of the board and CEO.
+ 
+ Copps was a director at large of
+ the Food Marketing Institute and a
+ member of the board of directors of
+ IGA.
+ 
+ In Stevens Point, he was a past
+ president of the Chamber of Com-
+ merce, which named him a Citizen of
+ the Year; founder of Stevens Point
+ Little League baseball, the Youth
+ Center and the Serra Club; and
+ leader of the drive to build the mu-
+ nicipal swimming pool, now named
+ in his honor, and to establish Pacelli
+ High School.
+ 
+ Copps was a member of the boards
+ of directors of Citizens National
+ Bank (now Bank One), Viterbo Col-
+ lege and Goodwill Industries of
+ North Central Wisconsin.
+ 
+ Surviving are his wife Mary Jane
+ and five children.
+ 
+ Services will be 10 a.m. Friday at
+ St. Stanislaus Church, Stevens Point. Ɬ
+14ꞭҨCronin Electronics, Inc., 77 4th Ave., Needham, Mass. 02194ҨCRONIN, TIMOTHY XAVIERҨChrm & PresҨ Timothy X. Cronin, 67
+ Founded Cronin Electronics
+ 
+ Timothy X. Cronin, founder and
+ president of Cronin Electronics in
+ Newton and a former executive at
+ several other electronics companies,
+ died Wednesday in Newton-Welles-
+ ley Hospital of a heart attack. He
+ was 67 and lived in Newton.
+ 
+ Mr. Cronin served as vice presi-
+ dent and chief financial officer at Ra-
+ dio Shack Corp. for eight years until
+ 1960, when he started his own com-
+ pany.
+ 
+ He was a member of the board of
+ directors at BayBanks Middlesex
+ branch and at Alpha Industries of
+ Woburn and was a former director
+ of Baird Corp. He also was the for-
+ mer president of the board of trust-
+ ees at St. Sebastians Country Day
+ School in Needham.
+ 
+ Born in Charlestown, Mr. Cronin
+ attended Commerce High School in
+ Boston and earned a bachelors de-
+ gree from Boston College in 1945
+ and a masters from Harvard Busi-
+ ness School in 1947.
+ 
+ A veteran of both World War IT
+ and the Korean War, Mr. Cronin
+ was a lieutenant in the Army. He
+ was a member of the Clover Club,
+ Charles River Country Club and the
+ Blue Chips of Boston College.
+ 
+ Mr. Cronin leaves his wife, Vir-
+ ginia M. (Hanley) of Waban; five
+ sons, Timothy X. Jr. and Robert E.,
+ of Wellesley Hills, Richard C. of Sci-
+ tuate, Gregory F. of Needham and
+ Philip P. of Newton; and two sisters,
+ Ester Martin of Falmouth and Mary
+ Mantini of Kansas City, Mo.
+ 
+ A funeral Mass will be said today
+ at 10 a.m. in Saint Philip Neri
+ Church in Waban. Burial will be in
+ Newton Cemetery. Ɬ
+15ꞭҨDelchamps, Inc., P.O. Box 1668, Mobile, Ala. 36633ҨDELCHAMPS, ALFRED FREDERICK, JR.ҨChrm, Pres & Chief Exec OfficerҨ Grocery executive dies in plane crash
+ 
+ MOBILE (AP)  A World War Il-vintage airplane, flying in loops, ap-
+ parently stalled in flight before it crashed and burned, killing the pilot
+ and his student, Alfred F. Delchamps Jr., chairman and chief executive
+ officer of the Delchamps grocery chain.
+ 
+ Fred's untimely death is a tragic loss to the company and the com-
+ munity. Our thoughts and prayers are with his family, Delchamps
+ President Randy Delchamps said Monday.
+ 
+ Funeral services were planned for Tuesday.
+ 
+ Also killed in the crash Sunday was 65-year-old Mark Reynolds, who
+ was teaching Delchamps to fly the airplane when it plunged into the
+ woods of north Mobile County and burned.
+ 
+ Reynolds flew fighter planes during World War II and had performed
+ in more than 60 air shows. Ɬ
+16ꞭҨSterling Bancorp, 540 Madison Ave., NYC 10022ҨDENERSTEIN, EZRA J.ҨPres, Chief Oper Officer & DirҨ Ezra Denerstein, president of banking firm
+ 
+ The New York Times
+ 
+ Ezra J. Denerstein, president
+ of Sterling Bancorp, a bank hold-
+ ing corporation with headquar-
+ ters in New York, died after suf-
+ fering an aneurysm on Feb. 22.
+ He was 73 and lived in
+ Manhattan.
+ 
+ Last October, Mr. Denerstein
+ celebrated his 50th anniversary
+ with the company, having joined
+ it as a vice president in 1941.
+ 
+ In 1968, he was elected presi-
+ dent and chief operating officer
+ of the company, then known as
+ Standard Prudential Corp.
+ 
+ At the time of his death, Mr.
+ 
+ Denerstein was also senior credit
+ officer and vice chairman of Ster-
+ ling National Bank & Trust Co., a
+ fully owned subsidiary of Sterling
+ Bancorp.
+ 
+ His survivors include a step-
+ son, Matthew Polsky of Deerfield
+ Beach.
+ Ezra Denerstein
+ 
+ Ezra J. Denerstein, of New
+ York and Palm Beach, died of a
+ brain aneu Saturday, Feb.
+ 22, 1992, in New York City. He
+ was 73.
+ 
+ He was president and director
+ of Sterling Bancorp., where he
+ spent = financial career, and
+ 
+ its predecessor, Standard
+ wean | in 1941.
+ 
+ A native of New York, Dener-
+ stein it his last 15 winters in
+ Palm h.
+ 
+ He was a graduate of City
+ College and founder of the Albert
+ Einstein College of Medicine and
+ a trustee of the Jewish Associa-
+ tion for Service to the Aged.
+ 
+ He was a member of the Har-
+ monie Club, the City Athletic
+ Club, the Manhattan Guild, the
+ New York Friars Club and the
+ Palm Beach Country Club.
+ 
+ He is survived by his wife
+ Rita; four daughters, June Silver,
+ Susan Amster, Loretta Friedman
+ and Susan Simon; a son, Matthew
+ Polsky; a sister, Minnie Schwartz
+ Sterling prexy buried
+ 
+ Ezra J. Denerstein, 73,
+ president and director of
+ Sterling Bancorp, was bur-
+ ied yesterday after a service
+ at Temple Emanu-El.
+ 
+ Denerstein, who died Sat-
+ urday in New York Hospital
+ of a brain aneurysm, had
+ spent his entire financial
+ career with Sterling. He
+ joined its predecessor,
+ Standard Financial, in 1941.
+ Last October, he celebrated
+ his 50th anniversary with
+ the company.
+ 
+ He was also vice chair-
+ 
+ 2 j of Sterling
+ 
+ Co. of New York, Sterling
+ Bancorps principal busi-
+ ness.
+ 
+ Most recently, Denerstein
+ was involved in establishing
+ a $10 million line of credit
+ for the Daily News.
+ 
+ A native New Yorker,
+ Denerstein attended public
+ schools and was a graduate
+ of City College. He was a
+ founder of the Albert Ein-
+ stein College of Medicine, a
+ trustee of the Jewish Associ-
+ ation for Service to the
+ Aged and an active partici-
+ pant in major fund-raising
+ 
+ and trust for the Anti-Déega Siatime &
+ 
+ League of Bnai B'rith.
+ 
+ Among the many organi-
+ zations of which Denerstein
+ was a member were the
+ Harmonie Club, the City
+ Athletic Club, the Manhat-
+ tan Guild, the New York
+ Friars Club and the Palm
+ Beach Country Club.
+ 
+ He is survived by his wife,
+ Rita; four daughters, June
+ Silver, Susan Amster, Loret-
+ ta Friedman and Susan Si-
+ mon; a son, Matthew Polsky;
+ a sister, Minnie Schwartz,
+ gnd nine grandehildrem=-9 ° Ɬ

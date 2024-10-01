@@ -1,0 +1,324 @@
+I'm going to give you information and I want you to read it and answer questions. The text was transferred from image-text so some of it might not make much sense, use your best judgment to guess what certain words are. I will give you preliminary information in this format: (number)ҨcompanyҨnameҨpositionҨ. The number represnts the assinged number for each person. This will be followed by text that I want you to use to answer the following questions. I will give you multiple different texts separated by this symbol Ɬ, answer the questions for each text individually. You MUST BE 80% confident to answer, otherwise leave it blank. 1. Description: The company mentioned in prelimnary information also contains the location, just look at the first part of the text which doesnt have numbers as that contains the company name. If the company in preliminary information is present at all, check all text to ensure weather it is presnt or not present in the text, or a only certain parts of a company name, or a company which seems to have a similar name, say yes (sometimes it will be abberviated). Most of the time this answer will be yes. Answer: Yes or No 2. Co: Description: Do nothing with this. Leave blank. 3. Description: Based on their line of work, is it the same industry, a different industry, or multiple industries compared to the earlier company? Use the name of the listed company and see if it mentions that they did that work. Most of the time this answer will be same. Answer: Same, Different, or Multiple 4. At Time of Death - Still at Firm: Description: Were they still at the firm when they died, or had they already retired/changed to a different company? Most of the time this answer will be yes, only answer no if it specifically says they left the company before their death or retired. Answer: Yes or No 5. Title Change: Description: Is their title at the company different from the one listed in the preliminary information? If the answer to this is no leave it blank. Answer: Yes or leave blank 6. New Title: Description: Only answer if the Title Change answer was Yes. What is their new title? Answer: New Title 7. Year Started at Firm, or Years at Firm: Description: What year did they first start working at the firm listed, or how many years have they worked there? If this is not provided leave it blank. Answer: Year or Years 8. Year Started in Field, or Years in Field: Description: What year did they first start working in their field/industry, or how many years have they worked in their field? If this is not provided leave it blank. Answer: Year or Years 9. Initial Title: Description: What was their initial title when they first joined the company? Answer: Initial Title 10. Director's Relation to Our Firm or Sector: Description: All the following must refer to the company given in the preliminary information or the same sector as the company in the prelimnary information, otherwise leave blank. Work their way up to an executive position over time (Career), founded the company (Founder), family member who founded the company (Family Founder), serve as the lawyer for the company (Lawyer), travel around in meetings for the company (Itinerant), or previously founded/worked at a company and then instantly became an executive at the preliminary company (Capitalist)? Answer: Career, Founder, Family Founder, Itinerant, Capitalist, or Lawyer 11. Additional Info Related to Firm: Description: Did they have a bank seat at their firm? If No just leave it blank. Answer: Yes or leave blank 12. Other Directorships Mentioned: Description: Were there other companies they were associated with? Answer: Yes or No 13. Director's Main Sector: Description: What was the sector the director was primarily associated with? Answer: Sector 14. If Banker - Cbank or Ibank: Description: If their sector was banking, were they more associated with commercial or investment banking? Answer: Cbank or Ibank 15. University/College: Description: If they attended a university or college, what was the name of the school? Answer: Name of the School 16. Director's Main Company: Description: Is the company listed in the preliminary information their main company? Answer: Yes or No 17. Other Affiliated Companies: Description: If the answer to the previous question was No, name the company the director seemed most associated with. Answer: Company Name 18. Former CEO Now Director: Description: Were they formerly a CEO and are now just a director? If the answer is no just leave blank. Answer: Yes or leave blank 19. Additional Notes: Description: Leave blank most of the time, unless something goes very wrong, for example if there is almost no information, write 'no information' Answer: 'no information'. Instructions for Output Formatting: Answer all questions in the specified format. Do not repeat the titles of the answer choices in your response, or any text besides the exact output format shown later. Do not add extra text, line spaces, or enters between different sets of answers. The answers should be a continuous block of text, not a list format. For each question, use the question number followed by a period, then provide the answer directly after the period. If there is no answer for a question, leave it blank but still include the question number followed by a period. Always number from 1 to 19, ensuring that each question is accounted for. Include the assigned number in the format Ɬ(number)Ɬ at the beginning of each block of answers. Do not include any titles, like Text_1. Follow this Output exactly: Ɬ(assigned number)Ɬ1. answer 2. answer 3. answer 4. answer 5. answer 6. answer 7. answer 8. answer 9. answer 10. answer 11. answer 12. answer 13. answer 14. answer 15. answer 16. answer 17. answer 18. answer 19. answer17ꞭҨKansas City Southern Industries, Inc., 114 W. 11th St., Kansas City, Mo. 64105ҨDERAMUS, WILLIAM N., IIIҨChrmҨ William N. Deramus III
+ 
+ KANSAS CITY, Mo.  William N.
+ Deramus III, chairman of Kansas
+ City Southern Industries Inc., died
+ Wednesday at age 73. A cause of
+ death was not released.
+ 
+ Mr. Deramus began his railroad
+ career in 1939 on the Wabash Rail-
+ road after receiving a law degree
+ from Harvard University. In 1949,
+ he became the youngest railroad
+ chief when he was named president
+ of the old Chicago, Great Western
+ Railway.
+ 
+ In 1961, Mr. Deramus was elected
+ president of the Kansas City
+ Southern Railway Co. and its subsid-
+ iary, Louisiana & Arkansas Railway
+ Co. Mr. Deramus succeeded his fa-
+ ther.
+ 
+ He established Kansas City
+ Southern Industries as a holding
+ company in the early 1960s. It was
+ one of the first of its kind in the rail-
+ road industry, and it expanded into
+ life insurance, real estate, broad-
+ casting and data processing.
+ Kansas City Southern chairman dies
+ 
+ KANSAS CITY, Mo. (AP)  Deramus, who took over as head
+ William N. Deramus III, chairman of Kansas City Southern in 1961,
+ of Kansas City Southern Industries died Wednesday at Truman Medical
+ Inc. and once the youngest man to Center after being rushed there
+ head a railroad company has died. from his office in downtown
+ He was 73. Kansas City.
+ KCSI veteran,
+ youth benefactor
+ Deramus dies
+ 
+ By C.J. FOGEL
+ The Times
+ 
+ The Shreveport business and civic
+ community mourned one of the
+ last old-time railroad men Thurs-
+ day. William N. Deramus III, 73,
+ chairman of Kansas City Southern
+ Industries, Inc., was considered a
+ generous contributor to the youth of
+ Louisiana.
+ 
+ It would be fair to say that he
+ was one of the last great railroad
+ men, said long-time associate Joe
+ Webb, associate vice president of
+ Kansas City Southern, KCSIs
+ flagship railroad.
+ 
+ Deramus died Wednesday in Kan-
+ sas City, Mo., after suffering a heart
+ attack in his office.
+ 
+ Kansas City Southern operates
+ out of the Shreveport-Bossier City
+ area and employs 550 workers.
+ Though he lived in Kansas City, De-
+ ramus will be remembered as an
+ important contributor to
+ Shreveports civic community.
+ 
+ For more than 35 years, his com-
+ pany has been the largest single
+ buyer at the Junior Livestock Auc-
+ tion held each year at the Louisiana
+ State Fair. KCS has spent about $4
+ million at the auction since the early
+ 1950s, about half of which was spent
+ in the last 10 years, according to
+ Johnny Fatheree, director of live-
+ stock and agriculture at the fair.
+ 
+ T dont know of any organization
+ that has spent that kind of money on
+ kids in this state, Fatheree said.
+ That auction represents an invest-
+ ment in thousands of youngsters and
+ their families... He was a great
+ man and there aren't too many left.
+ 
+ Deramus was recently named to
+ the Junior Livestock Auction Hall of
+ Fame.
+ 
+ Nicknamed The Hat because he
+ was rarely seen without one  even
+ during board meetings  Deramus
+ is remembered by associates as a
+ tough businessman who did almost
+ every kind of job that there is ina
+ railroad before succeeding his
+ father as president of KCS in 1961.
+ 
+ Though he received his law
+ 
+ William Deramus II}
+ 
+ degree from Harvard Law School,
+ friends and associates say Deramus
+ never lost his touch with the work-
+ ing man.
+ 
+ He had the respect of all of those
+ who knew him, said Webb. He
+ wouldnt cut a job unless it was a
+ dire need.
+ 
+ Deramus began his career as a
+ transportation apprentice on the
+ Wabash Railroad in 1939. He
+ worked as an assistant trainmaster
+ on the Wabash and as an assistant to
+ the general manager of KCS before
+ becoming president of the Chicago
+ Great Western railroad at the age of
+ 33.
+ 
+ Railroading was his life, said
+ Tom Carter, chairman of KCS and
+ an associate of Deramus for 32
+ years. He was a friend and advisor
+ to each and every one of us.
+ 
+ Deramus is survived by his wife,
+ Patricia; a son; three daughters; and
+ 10 grandchildren. Memorial ser-
+ vices will be held at 4 p.m. Saturday
+ in Kansas City.
+ 
+ The family requests no flowers
+ and suggests instead contributions
+ to the Friends of the Kansas City
+ Zoo, 3515 Broadway, Kansas City,
+ Mo. Ɬ
+18ꞭҨDewey & Almy Chemical Div. (W.R. Grace & Co.), 77 Dragon Ct., Woburn, Mass. 01888ҨEHLERS, CHARLES H.ҨPresҨ Charles H. Ehlers
+ 
+ BOSTON (AP)  Charles H.
+ Ehlers, a senior executive of W.R.
+ Grace & Co., was killed along with
+ wife, Arlene, in a plane crash Fri-
+ day on Marthas Vineyard. He was
+ 62.
+ 
+ Ehlers had been a corporate
+ vice president at Grace since
+ 1978. In 1992, he was named presi-
+ dent of the companys worldwide
+ container product line, which is
+ based in Woburn.
+ CHARLES H. EHLERS,
+ 62, of Concord, Mass., a
+ senior executive of W.R.
+ Grace & Co., and his wife,
+ Arlene, 61, died Friday,
+ when his private plane
+ crashed during takeoff from
+ Marthas Vineyard, Mass.
+ Charles, Arlene Ehlers 
+ 
+ Couple died in plane crash,
+ 
+ Charles H. Ehlers, 62, an execu-
+ tive with the W.R. Grace Co., and his
+ wife, Arlene (Mitchell), 61, died Fri-
+ day in a plane crash on Martha's...
+ 
+ Vineyard. The couple lived in Cob- 
+ 
+ cord.
+ 
+ was a graduate of Dana Hall School ~
+ 
+ Mrs. Ehlers, born in Enid, Okla,
+ 
+ .
+ 
+ in Wellesley who formerly taught ~
+ first grade i in Cambridge. A pianist ~
+ 
+ and music lover, she was active:In -
+ the Concord Orchestra, most recent~
+ ly as director of ticket sales. -_-_-
+ 
+ Mr. Ehlers was born in New ~.
+ 
+ York City and graduated from- the
+ 
+ Massachusetts Institute of Technol- --.
+ 
+ ogy in 1952. He served in the. Air -
+ Force for two years before jeining
+ 
+ the Dewey and Almy Chemical Dixi~..
+ sion of Grace Corp. in Cambridge i in, -
+ 1954. '
+ 
+ tive vice president of the divisions
+ container and chemical specialities
+ operations and in 1975 was named
+ 
+ In 1971, he was appointed ext! .
+ 
+ president of the division. twids
+ He was elected corporate vice |
+ 
+ president in 1978 and in 1992 was -
+ named president of Graces world-
+ 
+ wide container product line, based ae
+ 
+ Woburn.
+ 
+ Mr. Ehlers was a director of the -
+ 
+ Cambridge Trust Company, -Carn-*
+ bridge Online Services Inc. and In-
+ stron Corp. He was also a member
+ of the Algonquin Club of Boston: - -
+ 
+ The couple leaves a daughter,
+ Christine Ehlers of Winchester, Va, _
+ and a son, John M. of Double Oak,
+ Texas. c
+ 
+ Mr. Ehlers also leaves his moth-
+ er, Rose Ehlers of Concord. ~~.
+ 
+ Mrs. Ehlers also leaves two sis-_.
+ 
+ ters, Willa Jean Schneider and Mary -
+ 
+ Ellen Lee; and two brothers, B.B. =,
+ Mitchell and J.C. Mitchell, alt. of 
+ 
+ Oklahoma.
+ 
+ Their funeral will be held Thi: oo
+ 
+ day at 10 a.m. in First Parish in Con-"
+ cord. Burial will be in Sleepy Hollows
+ Cemetery. 35 Ɬ
+19ꞭҨGenuine Parts Co., 2999 Circle 75 Pkwy., Atlanta 30339ҨFRASER, JACK CARLYLEҨV-P & DirҨ Mr. Jack C. Fraser, 69,
+ Genuine Parts Co. VP,
+ on board for 35 years
+ 
+ Mr. Jack C. Fraser, vice presi-
+ dent and a director of Genuine
+ Parts Co., died Monday of heart
+ failure at his home. He was 69.
+ 
+ The funeral will be at 10 a.m.
+ Thursday at
+ Covenant Pres-
+ byterian
+ Church with
+ burial at West-
+ view Cemetery.
+ 
+ Mr. Fraser
+ 
+ was associated
+ with Genuine
+ Parts Co.,
+ which ci, se 
+ founded by his
+ father, for 52 JackC, Fraser
+ years and a member of its board
+ of directors for 35 years.
+ Jack Carlyle Fraser was born
+ May 14, 1920, in Pittsburgh, Pa.,
+ the son of Carlyle Fraser and
+ Dorothy Young Fraser. He grew
+ up in Atlanta, attending the
+ Spring Street School. He graduat-
+ ed from the Baylor School in
+ Chattanooga, Tenn., and attended
+ the University of Georgia.
+ 
+ Mr. Fraser was a member of
+ Covenant Presbyterian Church,
+ Atlanta Kiwanis Club, the Com-
+ merce Club, and the Presidents
+ Club of the University of Georgia.
+ He was a member of the Peach-
+ tree Golf Club, Capital City Club,
+ Piedmont Driving Club, Atlanta
+ Country Club and the Indian
+ mere Country Club in Miami,
+ Fla.
+ 
+ Surviving are his wife, Norma
+ Bennett Fraser; two sons, Robert
+ C. Fraser of Nashville, Tenn., and
+ Thomas C. Fraser of Atlanta; a
+ daughter, Barbara Jean F. Jones
+ of Germantown, Tenn.; a step-
+ daughter, Olivia Canan Yucel of
+ Atlanta; two sisters, Jean F. Duke
+ and Nancy F. Parker of Atlanta; a
+ brother, Richard Fraser of Bos-
+ ton, Mass.; and eight grand-
+ children.
+ 
+ In lieu of flowers, the family
+ requested that memorial contri-
+ butions be made to the University
+ of © fata Student Educational
+ Fund.
+ 
+ Mrs, Mary Emma Estes
+ Retired school teacher Ɬ

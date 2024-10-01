@@ -1,0 +1,181 @@
+I'm going to give you information and I want you to read it and answer questions. The text was transferred from image-text so some of it might not make much sense, use your best judgment to guess what certain words are. I will give you preliminary information in this format: (number)ҨcompanyҨnameҨpositionҨ. The number represnts the assinged number for each person. This will be followed by text that I want you to use to answer the following questions. I will give you multiple different texts separated by this symbol Ɬ, answer the questions for each text individually. You MUST BE 80% confident to answer, otherwise leave it blank. 1. Description: The company mentioned in prelimnary information also contains the location, just look at the first part of the text which doesnt have numbers as that contains the company name. If the company in preliminary information is present at all, check all text to ensure weather it is presnt or not present in the text, or a only certain parts of a company name, or a company which seems to have a similar name, say yes (sometimes it will be abberviated). Most of the time this answer will be yes. Answer: Yes or No 2. Co: Description: Do nothing with this. Leave blank. 3. Description: Based on their line of work, is it the same industry, a different industry, or multiple industries compared to the earlier company? Use the name of the listed company and see if it mentions that they did that work. Most of the time this answer will be same. Answer: Same, Different, or Multiple 4. At Time of Death - Still at Firm: Description: Were they still at the firm when they died, or had they already retired/changed to a different company? Most of the time this answer will be yes, only answer no if it specifically says they left the company before their death or retired. Answer: Yes or No 5. Title Change: Description: Is their title at the company different from the one listed in the preliminary information? If the answer to this is no leave it blank. Answer: Yes or leave blank 6. New Title: Description: Only answer if the Title Change answer was Yes. What is their new title? Answer: New Title 7. Year Started at Firm, or Years at Firm: Description: What year did they first start working at the firm listed, or how many years have they worked there? If this is not provided leave it blank. Answer: Year or Years 8. Year Started in Field, or Years in Field: Description: What year did they first start working in their field/industry, or how many years have they worked in their field? If this is not provided leave it blank. Answer: Year or Years 9. Initial Title: Description: What was their initial title when they first joined the company? Answer: Initial Title 10. Director's Relation to Our Firm or Sector: Description: All the following must refer to the company given in the preliminary information or the same sector as the company in the prelimnary information, otherwise leave blank. Work their way up to an executive position over time (Career), founded the company (Founder), family member who founded the company (Family Founder), serve as the lawyer for the company (Lawyer), travel around in meetings for the company (Itinerant), or previously founded/worked at a company and then instantly became an executive at the preliminary company (Capitalist)? Answer: Career, Founder, Family Founder, Itinerant, Capitalist, or Lawyer 11. Additional Info Related to Firm: Description: Did they have a bank seat at their firm? If No just leave it blank. Answer: Yes or leave blank 12. Other Directorships Mentioned: Description: Were there other companies they were associated with? Answer: Yes or No 13. Director's Main Sector: Description: What was the sector the director was primarily associated with? Answer: Sector 14. If Banker - Cbank or Ibank: Description: If their sector was banking, were they more associated with commercial or investment banking? Answer: Cbank or Ibank 15. University/College: Description: If they attended a university or college, what was the name of the school? Answer: Name of the School 16. Director's Main Company: Description: Is the company listed in the preliminary information their main company? Answer: Yes or No 17. Other Affiliated Companies: Description: If the answer to the previous question was No, name the company the director seemed most associated with. Answer: Company Name 18. Former CEO Now Director: Description: Were they formerly a CEO and are now just a director? If the answer is no just leave blank. Answer: Yes or leave blank 19. Additional Notes: Description: Leave blank most of the time, unless something goes very wrong, for example if there is almost no information, write 'no information' Answer: 'no information'. Instructions for Output Formatting: Answer all questions in the specified format. Do not repeat the titles of the answer choices in your response, or any text besides the exact output format shown later. Do not add extra text, line spaces, or enters between different sets of answers. The answers should be a continuous block of text, not a list format. For each question, use the question number followed by a period, then provide the answer directly after the period. If there is no answer for a question, leave it blank but still include the question number followed by a period. Always number from 1 to 19, ensuring that each question is accounted for. Include the assigned number in the format Ɬ(number)Ɬ at the beginning of each block of answers. Do not include any titles, like Text_1. Follow this Output exactly: Ɬ(assigned number)Ɬ1. answer 2. answer 3. answer 4. answer 5. answer 6. answer 7. answer 8. answer 9. answer 10. answer 11. answer 12. answer 13. answer 14. answer 15. answer 16. answer 17. answer 18. answer 19. answer30ꞭҨMoss Enterprises, 5050 Poplar Ave., Memphis, Tenn. 38157ҨMOSS, MORRIE ALFREDҨChrmҨ MOSS
+ 
+ MORRIE ALFRED, a busi-
+ nessman and art collector
+ whose philanthropy included
+ major gifts to local colleges,
+ universities and hospitals,
+ died Friday at Mt. Sinai Hos-
+ pital in Miami Beach, Fla., af-
+ ter a heart attack. He was 85.
+ Mr. Moss, who still was active
+ in his investment firm, Moss
+ Enterprises, and as a board
+ member of Occidental Petro-
+ leum Corp. of Los Angeles,
+ had homes in Memphis and
+ in Florida.
+ 
+ Among Mr. Moss's philan-
+ thropic contributions were $1
+ million each to Christian
+ Brothers University in 1991
+ and to Rhodes College in
+ 1985. Last August, he made a
+ similar gift to St. Jude Chil-
+ dren's Research Hospital.
+ Among his other honors were
+ th 1987 outstanding philan-
+ thropist award from the
+ Memphis chapter of the Na-
+ tional Society of Fund-Rais-
+ ing Executives, the 1987
+ Francis Gassner award from
+ the Memphis chapter of the
+ American Institute of Archi-
+ tects, the 1991 Hebe award
+ from Memphis Symphony
+ Ball, the 1991 Hugo Dixon
+ Award from Dixon Gallery
+ and Gardens and the 1992
+ Memphis Rotary Club com-
+ munity service award. Mrs.
+ Moss died in 1985. He leaves
+ a sister Ernestine Ratsky of
+ Miami Beach. Other surviving
+ relatives are 1 niece Dale
+ Kelleher, Ft. Lauderdale, and
+ 1 nephew Roy Ratsky, Miami
+ Lakes, Fl. MEMORIAL PARK
+ FUNERAL HOME was in
+ charge. Ɬ
+31ꞭҨAmerican Fletcher Corp., Ill Monument Circle, Indianapolis 46277ҨMcKINNEY, FRANK EDWARD, JR.ҨChrm & Chief Exec OfficerҨ Frank McKinney Jr., swimming champion
+ 
+ By JUDY BATTISTA
+ AND MARILYN GARATEIX
+ Herald Staff Writers
+ 
+ Frank E. McKinney Jr., a champion
+ Olympic swimmer who helped found and
+ oversee the International Swimming Hall of
+ Fame in Fort Lauderdale, died Friday in a
+ plane crash in Indiana.
+ 
+ McKinney, 53, was one of six people killed
+ when two small planes collided near India-
+ napolis. The National Transportation Safety
+ Board is investigating.
+ 
+ He was a dynamic guy, said Bill Kent, a
+ pool equipment supplier and fellow member
+ of the Hall of Fames executive committee.
+ He was a very bright, driven type of a guy.
+ He had a hands-on approach to everything,
+ not a laid-back guy at all. I thought he was
+ great.
+ 
+ McKinney helped found the Hall of Fame
+ 
+ in the mid-1960s and chaired its board of
+ directors in 1990 and 1991. He ran executive
+ board meetings by phone from his office in
+ Indiana when he couldn't be in South Flor-
+ 
+ ida.
+ 
+ McKinney began his swimming career at
+ age 7. In 1955, at 16, he won the 100-meter
+ backstroke in the Pan American Games in
+ Mexico City. A year later, as a high school
+ junior in Indianapolis, he won a bronze
+ medal in the 100-meter backstroke in the
+ 1956 Olympics in Melbourne, Australia.
+ 
+ At the 1960 Olympics in Rome, McKin-
+ ney won a silver medal in the same event and
+ a gold medal in the 400-meter medley relay.
+ He was a former world record holder in the
+ 200-meter backstroke and 400-meter medley
+ relay.
+ 
+ McKinney led Indiana University, where
+ he was a student, to its first Big Ten champi-
+ 
+ onship in swimming and helped make the
+ university a dominant power in collegiate
+ swimming competition.
+ 
+ He graduated from Indiana in 1961 witha
+ bachelor of science in economics and finance.
+ A year later, he earned his masters degree in
+ business administration from Indiana Uni-
+ versity.
+ 
+ McKinney spent two years stationed at the
+ Pentagon in Washington, D.C., as a first lieu-
+ tenant with U.S. Army intelligence.
+ 
+ After his military stint was done, he
+ worked for the First National Bank of Chi-
+ cago for several years. Later he joined Ameri-
+ can Fletcher National Bank, where he even-
+ tually succeeded his father as chairman.
+ 
+ McKinney helped make the bank into one
+ of Indianas largest financial institutions. He
+ retired from banking in 1990. A service was
+ held in Indianapolis. Ɬ
+32ꞭҨHelix Technology Corp., 204 Second Ave., Waltham, Mass. 02254ҨMcMAHON, HOWARD OLDFORDҨDirҨ Inventor Howard McMahon,
+ former head of Arthur Little
+ 
+ CAMBRIDGE, Mass. (AP) 
+ Inventor Howard O. McMahon, a
+ former head of Arthur D. Little
+ Inc., has died at the age of 75.
+ 
+ McMahon, who lived in Cam-
+ bridge, died of heart disease Sun-
+ day at Mount Auburn Hospital,
+ said an Arthur D. Little spokes-
+ man. The Cambridge-based firm
+ specializes in international man-
+ agement and technology
+ consulting.
+ 
+ McMahon joined Arthur D. Lit->
+ 
+ tle as a research associate in
+ 1943. He succeeded Gen. James
+ M. Gavin as its president in 1964.
+ In 1951 the scientist received
+ the Franklin Institutes Edward
+ - Longstreth Medal for co-develop-
+ .ing the Collins helium cryostat,
+ which liquefies helium gas at mi-
+ nus 452 Reareos Fahrenheit.
+ The American Ceramics So-
+ 
+ ciety gave McMahon the Frank
+ Forrest Award in 1952 for his re-
+ search in thermal radiation. In
+ 1979, he received the Samuel C.
+ Collins Award from the Cryogen-
+ ic Engineering Conference.
+ 
+ McMahon earned a doctorate
+ in physical chemistry and phy-
+ sics from the Massachusetts In-
+ stitute of Technology. While still
+ an undergraduaie, a Canadian
+ neon sign company paid him $100
+ for his patent on a bubbling
+ Christmas tree candle.
+ 
+ ~ After becoming president of
+ Arthur D. Little, McMahon. be-
+ gan to organize programs at the
+ American Academy for the Ad-
+ vancement of Science in which
+ the public, scientists and stu-
+ dents discussed political and so-
+ cial issues. Ɬ

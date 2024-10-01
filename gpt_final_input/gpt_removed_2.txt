@@ -1,0 +1,330 @@
+I'm going to give you information and I want you to read it and answer questions. The text was transferred from image-text so some of it might not make much sense, use your best judgment to guess what certain words are. I will give you preliminary information in this format: (number)ҨcompanyҨnameҨpositionҨ. The number represnts the assinged number for each person. This will be followed by text that I want you to use to answer the following questions. I will give you multiple different texts separated by this symbol Ɬ, answer the questions for each text individually. You MUST BE 80% confident to answer, otherwise leave it blank. 1. Description: The company mentioned in prelimnary information also contains the location, just look at the first part of the text which doesnt have numbers as that contains the company name. If the company in preliminary information is present at all, check all text to ensure weather it is presnt or not present in the text, or a only certain parts of a company name, or a company which seems to have a similar name, say yes (sometimes it will be abberviated). Most of the time this answer will be yes. Answer: Yes or No 2. Co: Description: Do nothing with this. Leave blank. 3. Description: Based on their line of work, is it the same industry, a different industry, or multiple industries compared to the earlier company? Use the name of the listed company and see if it mentions that they did that work. Most of the time this answer will be same. Answer: Same, Different, or Multiple 4. At Time of Death - Still at Firm: Description: Were they still at the firm when they died, or had they already retired/changed to a different company? Most of the time this answer will be yes, only answer no if it specifically says they left the company before their death or retired. Answer: Yes or No 5. Title Change: Description: Is their title at the company different from the one listed in the preliminary information? If the answer to this is no leave it blank. Answer: Yes or leave blank 6. New Title: Description: Only answer if the Title Change answer was Yes. What is their new title? Answer: New Title 7. Year Started at Firm, or Years at Firm: Description: What year did they first start working at the firm listed, or how many years have they worked there? If this is not provided leave it blank. Answer: Year or Years 8. Year Started in Field, or Years in Field: Description: What year did they first start working in their field/industry, or how many years have they worked in their field? If this is not provided leave it blank. Answer: Year or Years 9. Initial Title: Description: What was their initial title when they first joined the company? Answer: Initial Title 10. Director's Relation to Our Firm or Sector: Description: All the following must refer to the company given in the preliminary information or the same sector as the company in the prelimnary information, otherwise leave blank. Work their way up to an executive position over time (Career), founded the company (Founder), family member who founded the company (Family Founder), serve as the lawyer for the company (Lawyer), travel around in meetings for the company (Itinerant), or previously founded/worked at a company and then instantly became an executive at the preliminary company (Capitalist)? Answer: Career, Founder, Family Founder, Itinerant, Capitalist, or Lawyer 11. Additional Info Related to Firm: Description: Did they have a bank seat at their firm? If No just leave it blank. Answer: Yes or leave blank 12. Other Directorships Mentioned: Description: Were there other companies they were associated with? Answer: Yes or No 13. Director's Main Sector: Description: What was the sector the director was primarily associated with? Answer: Sector 14. If Banker - Cbank or Ibank: Description: If their sector was banking, were they more associated with commercial or investment banking? Answer: Cbank or Ibank 15. University/College: Description: If they attended a university or college, what was the name of the school? Answer: Name of the School 16. Director's Main Company: Description: Is the company listed in the preliminary information their main company? Answer: Yes or No 17. Other Affiliated Companies: Description: If the answer to the previous question was No, name the company the director seemed most associated with. Answer: Company Name 18. Former CEO Now Director: Description: Were they formerly a CEO and are now just a director? If the answer is no just leave blank. Answer: Yes or leave blank 19. Additional Notes: Description: Leave blank most of the time, unless something goes very wrong, for example if there is almost no information, write 'no information' Answer: 'no information'. Instructions for Output Formatting: Answer all questions in the specified format. Do not repeat the titles of the answer choices in your response, or any text besides the exact output format shown later. Do not add extra text, line spaces, or enters between different sets of answers. The answers should be a continuous block of text, not a list format. For each question, use the question number followed by a period, then provide the answer directly after the period. If there is no answer for a question, leave it blank but still include the question number followed by a period. Always number from 1 to 19, ensuring that each question is accounted for. Include the assigned number in the format Ɬ(number)Ɬ at the beginning of each block of answers. Do not include any titles, like Text_1. Follow this Output exactly: Ɬ(assigned number)Ɬ1. answer 2. answer 3. answer 4. answer 5. answer 6. answer 7. answer 8. answer 9. answer 10. answer 11. answer 12. answer 13. answer 14. answer 15. answer 16. answer 17. answer 18. answer 19. answer4ꞭҨBorg-Warner Corp., 200 S. Michigan, Chicago 60604ҨBERE, JAMES FREDERICKҨChrmҨ James F. Bere, 69, chairman
+ of Borg-Warner, civic leader
+ 
+ N.Y. Times News Service
+ 
+ James Frederick Bere, the
+ chairman and chief executive of
+ the billion-dollar Borg-Warner
+ Corp. and a Chicago civic figure,
+ died early Friday at his home in
+ Hinsdale, Ill., a Chicago suburb.
+ He was 69.
+ 
+ A statement issued at the
+ Chicago headquarters of Borg-
+ Warner said he had died after a
+ heart attack.
+ 
+ Mr. Bere, a Chicago native
+ and graduate of Northwestern
+ University, started his career out
+ of college in 1946 with U.S.
+ Industries Inc. While working,
+ he earned an MBA at North-
+ western four years later.
+ 
+ He was president of the com-
+ panys Axelson Manufacturing
+ Co. when he left U.S. Industries
+ for Borg-Warner in 1961.
+ 
+ From 1972 to 1986, he was
+ chief executive officer of Borg-
+ Warner.
+ 
+ Borg-Warner now has 75,000
+ employees worldwide and rev-
+ enues of about $2.5 billion a
+ year. Best known as a maker of
+ automotive parts, it also provides
+ protective services and guards.
+ 
+ In addition, Mr. Bere was a
+ director of Abbott Laboratories,
+ Ameritech Corp., Kmart Corp.,
+ Temple-Inland Inc., Time Warn-
+ er Inc., and Tribune Co. of Chica-
+ 
+ go. Ɬ
+5ꞭҨAmpco-Pittsburgh Corp., 600 Grant St., Pittsburgh 15219ҨBERKMAN, MARSHALL LEEҨChrm & Chief Exec OfficerҨ Marshall Berkman
+ 
+ Marshall L. Berkman, the
+ chairman and chief executive of
+ the Ampco-Pittsburgh Corp., a
+ manufacturing company that
+ specializes in metals and hard-
+ ware, died on Thursday in the
+ USAir plane crash. He was 57
+ and lived in Pittsburgh.
+ 
+ The Berkman family is the
+ largest shareholder of Ampco-
+ Pittsburgh, a publicly traded
+ company with 950 employees,
+ Berkman succeeded his father,
+ Louis, as chairman and chief ex-
+ ecutive in 1979.
+ 
+ Marshall Berkman was born in
+ Steubenville, Ohio, in 1936 and
+ graduated from Harvard College
+ in 1958. He also attended Har-
+ vard Business School and Hay
+ vard Law School.
+ 
+ In 1963, he went to work in
+ Cincinnati for another company
+ owned by his family, the Rust
+ Craft Greeting Card company. In
+ 1965 he moved to Rust Craft's
+ headquarters in Dedham, Mass.,
+ and when that company was sold
+ in 1979, he took over Ampco-
+ Pittsburgh.
+ 
+ Friends said Berkman was re-
+ turning on USAir Flight 427 from
+ a Chicago business trip with
+ Ronald L. Cale, Ampcos tax
+ manager.
+ BERKMAN
+ 
+ On Thurs., Sept. 8, 1994,
+ Marshall Lee, devoted hus-
+ band of Deborah Levy
+ Berkman; devoted father of
+ Laura Berkman Coleman,
+ Ellen Fels Berkman, Mar-
+ tha Berkman Winfield; be-
+ loved son of Louis
+ Berkman and the late San-
+ dra Weiss Berkman; and
+ friend of Jane Berkman;
+ adored grandfather of Sa-
+ rah Rome Coleman; dear
+ brother of Donna Berkman
+ Paul. A Memorial Service
+ will be held at Rodef Sha-
+ lom Temple, 4905 Fifth
+ Ave. on Monday, Sept. 12,
+ 1994 at 1 p.m. NO PRIOR
+ VISITATION. Family will re-
+ ceive in Lippman Library
+ immediately following the
+ service. In lieu of flowers
+ contributions may be
+ made to the Philanthropic
+ Fund of Rodef Shalom
+ Cong., 4905 Fifth Ave.,
+ Pgh., PA 15213 or Harvard
+ College Fund, in memory
+ of Marshall L. Berkman,
+ 124 Mt. Auburn St., Cam-
+ bridge, MA 02138. Ar-
+ rangements by RALPH
+ SCHUGAR CHAPEL, INC., Ɬ
+6ꞭҨCurtiss-Wright Corp., 1200 Wall St. W., Lyndhurst, N. J. 07071ҨBERNER, T. ROLANDҨChrm & PresҨ OS x  S OOS we as, elt
+ 
+ T. Roland Berner, feisty
+ Curtiss-Wright chairman
+ 
+ gressiv
+ legend on Wall Street.
+ 
+ A lawyer by training, Mr.
+ Berner launched his career as a
+ 
+ tiss-Wright, then a diversified
+ aerospace giant. He lost the proxy
+ fight but won enough votes to be
+ invited to join the Curtiss-Wright
+ 
+ peere Seamey Wrane & Gene te
+ 
+ trol.
+ 
+ Many of his battles were con-
+ tentious. In 1973, Curtiss-Wright
+ wanted to buy 25 percent control
+ of Airco Inc. of Montvale, an in-
+ dustrial-gas manufacturer. In-
+ stead, Airco merged with BOC In-
+ ternational Ltd. of Great Britain
+ to eliminate Berners threat.
+ 
+ His flair for public drama
+ peaked in 1978, when Curtiss-
+ Wright bought a 10 percent stake
+ in what was then known as Kenne-
+ cott Copper Corp., a New York-
+ based mining company in a slump.
+ He charged that Kennecott was
+ 
+ tempting i
+ Wright; they fought to a truce in
+ which the companies swapped
+ stock holdings.
+ 
+ Mr. Berner served a brief and
+ stormy tenure as president and
+ chief executive officer of troubled
+ Western Union in 1984, after wag-
+ ing a similar proxy battle for con-
+ trol of that company. 
+ 
+ Funeral arrangements were in-
+ complete Tuesday night.
+ T. Roland Berner, Curtiss-Wright Corp. chief
+ 
+ T. ROLAND BERNER, chairman
+ and president of the Curtiss-Wright
+ Corp. for the past three decades, who
+ lived in FORT LEE, died Sunday of
+ a heart attack while visiting relatives
+ in Boston. He was 80.
+ 
+ In 1948 and more than a decade
+ before he took over what then was a
+ leading maker of aircraft engines,
+ Berner led a group of dissident
+ stockholders seeking to oust the
+ companys management.
+ 
+ As head of the diversified aero-
+ 
+ space components producer in the
+ late 1970s and early 80s, Berner
+ waged an unsuccessful three-year
+ battle to control the Kennecott Cop-
+ per Corp.
+ 
+ The struggle ended in 1981 when
+ both parties agreed that neither one
+ would try to take over the other for
+ the next 10 years. However, Kenne-
+ cott came away with Curtiss-
+ Wrights pollution-control subsid-
+ iary, Dorr-Oliver Inc.
+ 
+ Berner graduated from Harvard
+ and Columbia Law School and be-
+ 
+ gan practice in Manhattan in 1936,
+ His practice was interrupted by
+ World War II, for which Berner
+ served as a lieutenant commander in
+ charge of the Navys air operational
+ training in Jacksonville, Fla.
+ 
+ Berner is survived by sons, Edgar
+ of Warren, Conn., and Thomas and
+ Richard of Cold Spring, N.Y.;
+ daughters, Rosalie Fedoruk of Wash-
+ ington, and Dr. Winifred Parker of
+ Wayland, Mass; a sister and 12
+ grandchildren.
+ 
+  The Associated Press
+ Mr, T. Roland Berner
+ Curtiss-Wright
+ 
+ BOSTON  Mr. T. Roland
+ Berner, 80, chairman and presi-
+ dent of Curtiss-Wright Corp. for
+ the past 30 years, died of a heart
+ attack Sunday while visiting rela-
+ tives in Boston. He was known as
+ a scrappy infighter, both as a
+ counsel to business giants and as
+ an industrial executive at Cur-
+ tiss-Wright, a diversified produc-
+ er of aerospace components, Ɬ
+7ꞭҨAmerican Trading and Production Corporation, Blaustein Bldg., Box 238, Baltimore 21203ҨBLAUSTEIN, MORTON K.ҨChrm & Chief Exec OfficerҨ Morton K. Blaustein,
+ one of Md.s wealthiest
+ 
+ By DeWITT BLISS
+ 
+ The Baltimore Sun
+ 
+ BALTIMORE Morton K.
+ Blaustein, chairman and chief ex-
+ ecutive officer of Baltimores
+ American Trading and Produc-
+ tion Corp., and one of Maryland's
+ richest men, died Monday at a
+ 
+ hospital in Richmond, Va., after
+ choking on his food during dinner
+ 
+ at a hotel there.
+ Mr. Blaustein, 64, had been at-
+ 
+ tending a meeting in Richmond of
+ 
+ the directors of Signet Bank.
+ 
+ He joined
+ the Signet
+ board when it
+ took over
+ Union Trust
+ Co., in which
+ his company
+ was a large in-
+ vestor.
+ 
+ American
+ Trading and
+ Production
+ Owns oil tankers, oil and gas
+ properties, communications, secu-
+ rity and office products, manufac-
+ turing companies and real estate,
+ including the Blaustein and W.R.,
+ Grace buildings in Baltimore.
+ 
+ Associated with the company
+ for more than 36 years, Mr. Blaus-
+ 
+ MR. BLAUSTEIN
+ 
+ tein had been chief executive offi-
+ cer since the death of his father
+ in 1970.
+ 
+ Mr. Blaustein was among nine
+ Marylanders who made the
+ Forbes magazine list of the 400
+ richest Americans for 1990, He
+ was worth $700 million, according
+ to Forbes.
+ 
+ He had been chairman of the
+ executive council and a vice pres-
+ ident of the American Jewish
+ Committee,
+ 
+ The Baltimore native chaired
+ the board of overseers of the de-
+ partment of geology at Stanford
+ University and was a member of
+ the boards of Park School and
+ Johns Hopkins University. He
+ was a graduate of all three
+ schools, earning his bachelors de-
+ gree at Hopkins and a masters
+ and doctorate in petroleum geol-
+ ogy at Stanford.
+ 
+ Mr. Blaustein is survived by his
+ wife, Mary Jane; two daughters,
+ Susan Berlow of Manila, Philip-
+ pines, and Jeanne Bokor of New
+ York; a stepdaughter, Sandra
+ Carter and a stepson, Taylor Lu-
+ cas, both of Baltimore; two sis-
+ ters, Barbara Hirschhorn of
+ Pikesville, and Elizabeth Roswell
+ of Bridgewater, N.J.; and two
+ stepgrandchildren. Ɬ

@@ -1,0 +1,328 @@
+I'm going to give you information and I want you to read it and answer questions. The text was transferred from image-text so some of it might not make much sense, use your best judgment to guess what certain words are. I will give you preliminary information in this format: (number)ҨcompanyҨnameҨpositionҨ. The number represnts the assinged number for each person. This will be followed by text that I want you to use to answer the following questions. I will give you multiple different texts separated by this symbol Ɬ, answer the questions for each text individually. You MUST BE 80% confident to answer, otherwise leave it blank. 1. Description: The company mentioned in prelimnary information also contains the location, just look at the first part of the text which doesnt have numbers as that contains the company name. If the company in preliminary information is present at all, check all text to ensure weather it is presnt or not present in the text, or a only certain parts of a company name, or a company which seems to have a similar name, say yes (sometimes it will be abberviated). Most of the time this answer will be yes. Answer: Yes or No 2. Co: Description: Do nothing with this. Leave blank. 3. Description: Based on their line of work, is it the same industry, a different industry, or multiple industries compared to the earlier company? Use the name of the listed company and see if it mentions that they did that work. Most of the time this answer will be same. Answer: Same, Different, or Multiple 4. At Time of Death - Still at Firm: Description: Were they still at the firm when they died, or had they already retired/changed to a different company? Most of the time this answer will be yes, only answer no if it specifically says they left the company before their death or retired. Answer: Yes or No 5. Title Change: Description: Is their title at the company different from the one listed in the preliminary information? If the answer to this is no leave it blank. Answer: Yes or leave blank 6. New Title: Description: Only answer if the Title Change answer was Yes. What is their new title? Answer: New Title 7. Year Started at Firm, or Years at Firm: Description: What year did they first start working at the firm listed, or how many years have they worked there? If this is not provided leave it blank. Answer: Year or Years 8. Year Started in Field, or Years in Field: Description: What year did they first start working in their field/industry, or how many years have they worked in their field? If this is not provided leave it blank. Answer: Year or Years 9. Initial Title: Description: What was their initial title when they first joined the company? Answer: Initial Title 10. Director's Relation to Our Firm or Sector: Description: All the following must refer to the company given in the preliminary information or the same sector as the company in the prelimnary information, otherwise leave blank. Work their way up to an executive position over time (Career), founded the company (Founder), family member who founded the company (Family Founder), serve as the lawyer for the company (Lawyer), travel around in meetings for the company (Itinerant), or previously founded/worked at a company and then instantly became an executive at the preliminary company (Capitalist)? Answer: Career, Founder, Family Founder, Itinerant, Capitalist, or Lawyer 11. Additional Info Related to Firm: Description: Did they have a bank seat at their firm? If No just leave it blank. Answer: Yes or leave blank 12. Other Directorships Mentioned: Description: Were there other companies they were associated with? Answer: Yes or No 13. Director's Main Sector: Description: What was the sector the director was primarily associated with? Answer: Sector 14. If Banker - Cbank or Ibank: Description: If their sector was banking, were they more associated with commercial or investment banking? Answer: Cbank or Ibank 15. University/College: Description: If they attended a university or college, what was the name of the school? Answer: Name of the School 16. Director's Main Company: Description: Is the company listed in the preliminary information their main company? Answer: Yes or No 17. Other Affiliated Companies: Description: If the answer to the previous question was No, name the company the director seemed most associated with. Answer: Company Name 18. Former CEO Now Director: Description: Were they formerly a CEO and are now just a director? If the answer is no just leave blank. Answer: Yes or leave blank 19. Additional Notes: Description: Leave blank most of the time, unless something goes very wrong, for example if there is almost no information, write 'no information' Answer: 'no information'. Instructions for Output Formatting: Answer all questions in the specified format. Do not repeat the titles of the answer choices in your response, or any text besides the exact output format shown later. Do not add extra text, line spaces, or enters between different sets of answers. The answers should be a continuous block of text, not a list format. For each question, use the question number followed by a period, then provide the answer directly after the period. If there is no answer for a question, leave it blank but still include the question number followed by a period. Always number from 1 to 19, ensuring that each question is accounted for. Include the assigned number in the format Ɬ(number)Ɬ at the beginning of each block of answers. Do not include any titles, like Text_1. Follow this Output exactly: Ɬ(assigned number)Ɬ1. answer 2. answer 3. answer 4. answer 5. answer 6. answer 7. answer 8. answer 9. answer 10. answer 11. answer 12. answer 13. answer 14. answer 15. answer 16. answer 17. answer 18. answer 19. answer26ꞭҨLongs Drug Stores California, Inc., 141 N. Civic Dr., Walnut Creek, Cal. 94596ҨLONG, JOSEPH M.ҨChrmҨ Co-founder of Longs Drug
+ Store chain dead at age 78
+ 
+ WALNUT CREEK, Calif. (AP)
+  Joseph M. Long, who grew up in
+ a quiet Northern California farm-
+ ing town before co-founding Longs
+ Drug Stores and donating millions
+ for education and the environment,
+ has died. He was 78.
+ 
+ The California native, born in
+ Covelo in Mendocino County, died
+ Thursday night at a Walnut Creek
+ hospital from a cerebral hemor-
+ rhage, the company announced on
+ Friday
+ 
+ Long founded the. retail drug
+ store company in 1938 in Oakland
+ with his brother Thomas, director
+ of Walnut Creek-based Longs. The
+ company, now a $2 billion-a-year
+ operation, has 14,000 employees
+ working in 257 stores in six states
+  California, Nevada, Arizona,
+ Colorado, Alaska and Hawaii
+ 
+ For the past 10 years, Joseph
+ Long hadn't been involved in the
+ day-to-day operations of the store
+ chain. One of his four sons, Robert
+ Long, is president and chief execu-
+ tive officer of the company
+ 
+ Long and his brother, Tom, 75,
+ whose father ran a general store in
+ Covelo, moved to Berkeley in the
+ 1930s where they attended the Uni-
+ versity of California. The small
+ town boys traveled to Berkeley on
+ the back of a milk truck, said
+ Longs spokesman Bill Combs. Jo-
+ seph Long graduated in 1933
+ 
+ Long is survived by his sons, his
+ wife. Tina, two brothers and two
+ 
+ sisters. and nine grandchildren
+ 
+ During his later years, Joseph
+ Long became known for his philan-
+ thropy, donating millions of dollars
+ for medical, education, environ-
+ mental and wildlife causes.
+ 
+ He established the Joseph M
+ Long Marine Laboratory at the
+ University of California at Santa
+ Cruz with an initial $1.6 million
+ donation out of a total $2.06 million
+ he contributed to UC Santa Cruz.
+ He also gave $3.25 million to the
+ University of California at San
+ Francisco Medical Center which
+ named a wing of its hospital after
+ Long.
+ 
+ Even after he helped establish
+ the marine mammal lab, he contin-
+ ued to be a major contributor to
+ purchase equipment, said Bill
+ Doyle, director of the Institute of
+ Marine Sciences at UC Santa Cruz.
+ Joe was very interested in the
+ environment
+ 
+ He once told me that he was
+ taught by his mother that they
+ must always give something back
+ to those who help them, Doyle
+ added. He not only gave financial
+ support, but he also gave us his
+ counsel. He was very much a peo-
+ ple person who had a deep love of
+ the environment.
+ 
+ Long also founded the California
+ 
+ State Park Foundation and the Cal-
+ ifornia Waterfowl! Association. Ɬ
+27ꞭҨPerini Corp., 73 Mt. Wayte, Framingham, Mass. 01701ҨMARTIN, JOHN M.ҨDirҨ John M. Martin
+ 
+ WILMINGTON (AP)  John M.
+ Martin, the retired chairman of
+ the board of directors at Hercules
+ Inc., has died.
+ 
+ Martin, 77, died Wednesday at
+ his home of heart failure, his fami-
+ ly said.
+ 
+ Martin joined Hercules 43 years
+ ago and retired in 1978. He was an
+ expert in explosives and solid fuel
+ rocketry.
+ 
+ He remained active with several
+ boards of directors and civic orga-
+ nizations, including Lehman Corp.
+ in New York, Greyhound Corp.,
+ the Delaware Museum of Natural
+ History and United Way of Dela-
+ ware.
+ 
+ ] ~~ . be in be ery 4
+ things, eep in touch. Ive al-
+ ways been interested in social and
+ political development, Martin
+ said when he retired.
+ 
+ A native of Opp, Ala., he held
+ several jobs with the Wilmington-
+ based chemical company and in
+ 1953 was named general manager
+ of the explosives department and
+ became a director of the company.
+ 
+ In 1960, he was elected vice pres-
+ ident and a member of the exec-
+ utive committee, He became vice
+ chairman of the board and a chair-
+ man and member of the finance
+ committee in 1970.
+ 
+ He served as board chairman
+ from 1971 to 1977.
+ 
+ Hercules Chairman David S.
+ Hollingsworth called Martin a
+ wonderfully unique individual.
+ 
+ He was imaginative, humor-
+ ous, widely read, and most of all he
+ was a captivating storyteller,
+ Hollingsworth said Thursday.
+ 
+ Martin is survived by his wife,
+ Mary Malone Martin, two sons,
+ five daughters, and seven grand-
+ children.
+ 
+ A private service was held
+ Wednesday at the Martin home. Ɬ
+28ꞭҨVulcan Corp., Six E. 4th St., Cincinnati 45202ҨMILLER, LLOYD I.ҨChrm & Chief Exec OfficerҨ Lloyd Miller, past Reds owner
+ 
+ Cincinnati industrialist also was U.S. ambassador in 70s
+ 
+ BY JIM CALHOUN
+ 
+ The Cincinnati Enquirer
+ 
+ Lloyd I. Miller, a Cincinnati industrialist who at one
+ time was known as the Boy Wonder of Fourth
+ Street, died after he suffered a massive heart attack
+ Sunday at his home in Naples, Fla.
+ 
+ He was 66.
+ 
+ Mr. Miller, who grew up in the Pleasant Ridge
+ neighborhood of Cincinnati, had been a major investor
+ in numerous Queen City-based corporations and was
+ one of the former owners of the Cincinnati Reds
+ baseball club, associates said.
+ 
+ He also was a former U.S. ambassador to the
+ Caribbean nation of Trinidad and Tobago from 1973
+ to 1975, during the Nixon Administration.
+ 
+ He earned the golden boy reputation among
+ Cincinnati's business elite for his acumen and ambition
+ fresh from college at Miami University in Oxford and
+ law school at the University of Cincinnati.
+ 
+ By age 25, he had been a World War II combat
+ veteran in the invasion of the Philippines, an insurance
+ claims adjuster, lawyer, stockbroker and youngest
+ director ever of the Cincinnati Street Railway Co.,
+ forerunner of todays Metro bus system.
+ 
+ He was a very warm and loyal friend. He was an
+ extremely clear thinker. And when it came to secu-
+ rities, he was a genius, said Benjamin Gettler, a
+ friend and former business partner who knew Mr.
+ Miller since their days at Walnut Hills High School
+ (Class of 1942),
+ 
+ He read everything that he could get his hands
+ on. He followed the stock market religiously, and
+ even kept an up-to-the-minute watch on Wall Street
+ with a machine in his office that showed latest quotes.
+ 
+ And he watched it all the time. From the begin-
+ 
+ ning, he was always read-
+ ing everything about the
+ financial markets, said
+ 
+ can International.
+ 
+ Controlled Industries,
+ which used to own the for-
+ mer Cincinnati Transit Co.
+ He also was former chair-
+ man of Vulcan Internation-
+ al, a holding company for
+ Vulcan Corp., a shoe,
+ 
+ Lloyd |. Miller
+ 
+ cern.
+ 
+ including Central Bancorp (Central Trust Bank), Ea-
+ gle-Picher Industries Inc., Pittsburgh National Corp.,
+ Super Foods of Dayton (Ohio) and Comair Inc.
+ 
+ Mr. Miller also was the owner of thoroughbred
+ 
+ Gettler, president of Vul-
+ 
+ Mr. Miller was former |
+ president of American]
+ 
+ sports and plastics con- |
+ 
+ And he was a director of several corporations, |
+ 
+ horses, His most famous was Dark Mirage, winner of |
+ 
+ the Triple Crown for fillies in 1968 and Daily Racing
+ Forms choice as the 3-year-old champion that year.
+ Dark Mirage is in the Hall of Fame of the National
+ Museum of Racing.
+ 
+ He never really retired. He simply decided to
+ move to Florida in 1984. He said he liked the climate
+ better, Gettler said.
+ 
+ Mr. Miller was scheduled to attend Vulcan Interna-
+ tionals annual directors meeting in Delaware today,
+ Gettler said.
+ 
+ Funeral arrangements were incomplete Sunday
+ night. Catherine Crider Miller, his wife of 38 years,
+ said a memorial service would be held in Cincinnati. Ɬ
+29ꞭҨGillette Co., Prudential Tower Bldg., Boston 02199ҨMOCKLER, COLMAN MICHAEL, JR.ҨChrm & Chief Exec OfficerҨ Gillette Co. Chairman
+ Colman Mockler Jr., 61
+ 
+ BOSTON (AP)Colman M.
+ Mockler Jr., the chairman of Gil-
+ lette Co. who helped the company
+ tighten its grip on the world
+ shaving products market, died
+ Friday after a heart attack, He
+ was 61.
+ 
+ Mr. Mockler, who had an-
+ 
+ nounced last fall he would retire
+ at the end of 1991, died at Gillet-
+ te headquarters, the company
+ said. ;
+ During his tenure as chairman,
+ which began in 1976, Mr. Mock-
+ ler hel guide Gillette through
+ two takeover battles and oversaw
+ a major restructuring.
+ 
+ His career was capped last year
+ with the introduction of Gillettes
+ Sensor razor, considered the com-
+ panys most important new prod-
+ uct in years. The razor became
+ such a hot-selling item that For-
+ bes magazine devoted the cover
+ story of its Feb. 4 issue to Mr.
+ 
+ Mockler and his achievements.
+ 
+ On the cover, an artists rendi-
+ tion shows Mr Mockler bran-
+ dishing a giant razor, standing
+ atop a mountain while van-
+ quished competitors claw the
+ rocks below. :
+ 
+ He was an outstanding man,
+ said Joseph Duggan, a Boston
+ Chamber of Commerce official
+ 
+ who had frequent dealings with, t
+ 
+ Gillette. He brought them
+ through so many.trials and tribu-
+ lations recently. _ ;
+ His tough business reputation
+ belied his private, reserved personal
+ style, a business acquaintance said.
+ He was a very modest person,
+ never overbearing, said Ira
+ Stepanian, chairman of Bank of
+ Boston Corp., where Mr. Mockler
+ served on the board of directors.
+ He never wanted the spotlight.
+ Mr. Mockler joined Gillette in
+ 1957 as staff assistant to the con-
+ 
+ Colman M. Mockler Jr.
+ 
+ troller and was named treasurer in
+ 1965. After a series of promotions,
+ he was elected chief executive offi-
+ cer in 1975.
+ 
+ A native of St. Louis, Mr. Mock-
+ ler attended Harvard College and
+ Harvard Business School, where he
+ graduated in 1954, Ɬ

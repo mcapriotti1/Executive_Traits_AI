@@ -1,0 +1,350 @@
+I'm going to give you information and I want you to read it and answer questions. The text was transferred from image-text so some of it might not make much sense, use your best judgment to guess what certain words are. I will give you preliminary information in this format: (number)ҨcompanyҨnameҨpositionҨ. The number represnts the assinged number for each person. This will be followed by text that I want you to use to answer the following questions. I will give you multiple different texts separated by this symbol Ɬ, answer the questions for each text individually. You MUST BE 80% confident to answer, otherwise leave it blank. 1. Description: The company mentioned in prelimnary information also contains the location, just look at the first part of the text which doesnt have numbers as that contains the company name. If the company in preliminary information is present at all, check all text to ensure weather it is presnt or not present in the text, or a only certain parts of a company name, or a company which seems to have a similar name, say yes (sometimes it will be abberviated). Most of the time this answer will be yes. Answer: Yes or No 2. Co: Description: Do nothing with this. Leave blank. 3. Description: Based on their line of work, is it the same industry, a different industry, or multiple industries compared to the earlier company? Use the name of the listed company and see if it mentions that they did that work. Most of the time this answer will be same. Answer: Same, Different, or Multiple 4. At Time of Death - Still at Firm: Description: Were they still at the firm when they died, or had they already retired/changed to a different company? Most of the time this answer will be yes, only answer no if it specifically says they left the company before their death or retired. Answer: Yes or No 5. Title Change: Description: Is their title at the company different from the one listed in the preliminary information? If the answer to this is no leave it blank. Answer: Yes or leave blank 6. New Title: Description: Only answer if the Title Change answer was Yes. What is their new title? Answer: New Title 7. Year Started at Firm, or Years at Firm: Description: What year did they first start working at the firm listed, or how many years have they worked there? If this is not provided leave it blank. Answer: Year or Years 8. Year Started in Field, or Years in Field: Description: What year did they first start working in their field/industry, or how many years have they worked in their field? If this is not provided leave it blank. Answer: Year or Years 9. Initial Title: Description: What was their initial title when they first joined the company? Answer: Initial Title 10. Director's Relation to Our Firm or Sector: Description: All the following must refer to the company given in the preliminary information or the same sector as the company in the prelimnary information, otherwise leave blank. Work their way up to an executive position over time (Career), founded the company (Founder), family member who founded the company (Family Founder), serve as the lawyer for the company (Lawyer), travel around in meetings for the company (Itinerant), or previously founded/worked at a company and then instantly became an executive at the preliminary company (Capitalist)? Answer: Career, Founder, Family Founder, Itinerant, Capitalist, or Lawyer 11. Additional Info Related to Firm: Description: Did they have a bank seat at their firm? If No just leave it blank. Answer: Yes or leave blank 12. Other Directorships Mentioned: Description: Were there other companies they were associated with? Answer: Yes or No 13. Director's Main Sector: Description: What was the sector the director was primarily associated with? Answer: Sector 14. If Banker - Cbank or Ibank: Description: If their sector was banking, were they more associated with commercial or investment banking? Answer: Cbank or Ibank 15. University/College: Description: If they attended a university or college, what was the name of the school? Answer: Name of the School 16. Director's Main Company: Description: Is the company listed in the preliminary information their main company? Answer: Yes or No 17. Other Affiliated Companies: Description: If the answer to the previous question was No, name the company the director seemed most associated with. Answer: Company Name 18. Former CEO Now Director: Description: Were they formerly a CEO and are now just a director? If the answer is no just leave blank. Answer: Yes or leave blank 19. Additional Notes: Description: Leave blank most of the time, unless something goes very wrong, for example if there is almost no information, write 'no information' Answer: 'no information'. Instructions for Output Formatting: Answer all questions in the specified format. Do not repeat the titles of the answer choices in your response, or any text besides the exact output format shown later. Do not add extra text, line spaces, or enters between different sets of answers. The answers should be a continuous block of text, not a list format. For each question, use the question number followed by a period, then provide the answer directly after the period. If there is no answer for a question, leave it blank but still include the question number followed by a period. Always number from 1 to 19, ensuring that each question is accounted for. Include the assigned number in the format Ɬ(number)Ɬ at the beginning of each block of answers. Do not include any titles, like Text_1. Follow this Output exactly: Ɬ(assigned number)Ɬ1. answer 2. answer 3. answer 4. answer 5. answer 6. answer 7. answer 8. answer 9. answer 10. answer 11. answer 12. answer 13. answer 14. answer 15. answer 16. answer 17. answer 18. answer 19. answer33ꞭҨCitizens Bank & Trust Co., Fourth & Broadway, Paducah, Ky. 42001ҨNEWELL, DAVID W.ҨExec V-PҨ David Newell
+ 
+ David William Newell, 50, 120
+ Mimosa Lane, Paducah, Ky., died
+ Wednesday afternoon (Aug. 15,
+ 1990) of a heart attack while va-
+ cationing at Litchfield Beach,
+ S.C.
+ 
+ _ Born iff Knoxville, he was a
+ graduate of the University.of Ten-.
+ nessee and served as a intenast
+ in the U.S. Navy from 1962
+ 
+ 1965. He also graduated from
+ Wharton School of Finance and
+ Commerce at the University of
+ Pennsylvania in Philadelphia.
+ 
+ Mr. Newell'was formerly pres- .
+ ident of First National Bank of
+ Jackson, Tenn., which mer
+ with First American Corp. ; of
+ Nashville.
+ 
+ At the time of his death,;he
+ was executive vice-president and
+ director of Citizens Bank and
+ Trust Co. of Paducah, Ky. i
+ 
+ Mr: Newell was a member of
+ the Rotary Club of Paducah, fhe
+ Board of Main Street and the
+ Greater Paducah Economic De-
+ velopment Corp. He was presi-
+ dent of Growth, Inc., in Paducah.
+ 
+ He was preceded in death by
+ his father, William Edward New-
+ ell.
+ 
+ Surviving are two daughters,
+ Katherine Newell and Ferris
+ Newell, both of Memphis; his
+ mother, Betty Newell, Melbourne,
+ Fla.; one sister, Sarah Jean Rei-
+ chert, Winter Park, Fla.; two
+ brothers, Edward F. Newell,
+ Bristol, Tenn., and John C. New-
+ ell, Melbourne, Fla.
+ 
+ Services will be conducted at
+ 11 a.m. Saturday in the Hamlett-
+ Dobson Funeral Home Chapel
+ with Dr. Toombs H. Kay Jr. offi-
+ ciating.
+ 
+ Burial will be in Oak Hill Cem-
+ etery.
+ 
+ Memorials may be made to
+ the Art Guild of Paducah, Padvu-
+ cah, Ky. 42001 or to the American
+ Heart Association.
+ At least 14 groups feel loss of banker Newell
+ 
+ DAVID W. NEWELL
+ Perfect example of leadership
+ 
+ BY JOE WALKER
+ SUN STAFF WRITER
+ 
+ Friends say the late David W.
+ Newell was one of the most civic-
+ minded people they ever knew,
+ irreplaceable in his many roles in
+ the community.
+ 
+ The 50-year-old executive vice
+ president of Citizens Bank and
+ Trust Co. and president of-Growth
+ Inc. died Wednesday afternoon of
+ an apparent heart attack while
+ wading in the ocean while on vaca-
+ tion at Litchfield Beach, S.C.
+ 
+ A resident of 120 Mimosa Lane,
+ Mr. Newell was or had been
+ involved with about 14 civic organi-
+ said his close friend, Alan Raidt.
+ 
+ Td mentioned not too long ago
+ that he had to cut back on some of
+ those things, Raidt said. He was
+ 
+ just the friendliest, happiest guy
+ you could know for someone who
+ was that busy and dedicated.
+ Aside from his key jobs with the
+ bank and with Growth, Mr. Newell
+ was on the executive committee of
+ the Greater Paducah Economic
+ Development Corp.; a director and
+ vice chairman of Main Street Inc.;
+ a director of the Paducah Art Guild
+ and a member of the Paducah
+ 
+ economic development board,
+ called Mr. Newell a stalwart
+ member of the civic community.
+ He not only brought his financial
+ savvy to the table, but he was just
+ a very sound person, very easy to
+ work with. He had a very positive
+ attitude on life and people.
+ 
+ Raidt, former president of the
+ Downtown Development Associa-
+ 
+ tion, said he met Mr. Newell
+ through that organization and the
+ Crime Stoppers board. A former
+ DDA director, Mr. Newell ended
+ terms this year on the boards of
+ Crime Stoppers, the Paducah Sym-
+ phony and Boy Scouts of America.
+ 
+ He had that rs regan to go
+ out and do something, to share his
+ talents, said Growth executive
+ director Dick Holland. He wasnt
+ just my director, he was my
+ friend.
+ 
+ _ Mr. Newell became Growth pres-
+ 
+ 
+ 
+ 3 Newell
+ rechanneed, ron efforts
+ toward downtown by preserving
+ historical buildings and developing
+ m@ NEWELL
+ 
+ Continued from page |
+ 
+ ring to Growths role ny
+ property for the new tained
+ Commerce offices.
+ flog ervopa ter Cintas, Be
+ P or 
+ was very in getting the best
+ and most for our dollars.
+ Sen. Helen Garrett said Mr.
+ Newell had taken on an increasing
+ role of leadership in the community
+ and we'll all miss him very much.
+ It just doesnt seem ble. Id
+ have to think it (heart attack) is an
+ indication of the stress involved.
+ He had talked to me and we
+ discussed many, many for
+ the betterment of Paducah. He was
+ a part of progress in that area,
+ almost everything that was
+ on.
+ e-Executive Gary Hovekamp
+ said knew and admired Mr.
+ Newell long before enews judge,
+ 
+ going
+ 
+ Mr. Newell not only contributed
+ money to the arts, he got involved,
+ im often at
+ the Art Guild looking at exhibits.
+ He appreciated the arts and the
+ Paducah Symphony. Its good to
+ see a business person doing that.
+ 
+ Raidt, a restaurateur form-
+ erly ran a recording studio, said
+ Mr. Newell sang and wrote country
+ music and visited the studio to get
+ Raidts help.
+ 
+ Mr. Newell held the very senior
+ role of overseeing commercial
+ 
+ Citizens i
+ 
+ field and proved
+ to be a very integral person, super-
+ vising various lending officers and
+ 
+ heading loan committees. Its prob-
+ 
+ ably as important a function in the
+ bank as there is.
+ 
+ Cvengros said the which
+ was stunned at the news
+ of Mr. Newell's will find it
+ 
+ difficult to him ..
+ feel the emptiness and do the
+ Cor one?
+ 
+ On aang a native of Knox-
+ » Lenn, brought impressive
+ credentials to Paducah. His father,
+ 
+ banking
+ death in 1977, having been chair-
+ man of First National Bank of
+ Sullivan County in Kingsport.
+ 
+ Mr. Newell, a 1962 graduate of
+ the University of Tennessee, was
+ US. Bath nrg rgd arn alg
+ 
+ ted from
+ Finance and
+ 
+ cer of First National Bank of J
+ son, Tenn., from 1978 until 1982,
+ when he became sre tans
+ 
+ Surviving are two daughters,
+ Katherine Newell and Ferris
+ Newell, both of Memphis; his
+ mother, Betty Newell of Mel-
+ bourne, Fla.; a sister, Sarah Jean
+ Reichert of Winter Park, Fla.; two
+ brothers, Edward F. Newell of
+ Bristol, Tenn., and John Newell of
+ Melbourne, Fla., and several nieces
+ and nephews.
+ 
+ ces will be at 11 a.m. Satur-
+ day at Hamlett-Dobson Chapel in
+ 
+ ga shar Toombs H. Kay Jr.
+ will officiate. Burial will be in Oak
+ Hill Cemetery.
+ 
+ Friends may call from 7 to 9
+ tonight at the funeral home. Ɬ
+34ꞭҨDynamics Research Corp., 60 Concord St., Wilmington, Mass. 01887ҨPABLO, JAMES F.ҨV-P, Chief Fin Officer & TreasҨ JAMES F. PABLO
+ 
+ James F. Pablo, 68
+ 0. Vice president at Andover firm
+ James F. Pablo, vice president,
+ chief financial officer and treasurer
+ ~of Dynamics Research Corp. of An-
+ dover, died of a heart attack Monday
+ at Lawrence General Hospital after
+ being stricken at his home in An-
+ ~dover. He was 68.
+ -~ Before joining the defense con-
+ traetor in 1984, Mr. Pablo worked as
+ financial vice president of other
+ ~Massachusetts companies - Quaker
+ Fabric, SeaTech International,
+ sDiano and AVX.
+ Born in Portsmouth, Va., h
+ graduated from the University of
+ ~ Evansville in 1948 after serving in
+ the Army Air Corps in Pakistan dur-
+ ing World War II.
+ 
+ us _ He leaves his wife, Hazel (Hen-
+ @erson); two daughters, Lizbeth Ar-
+ Scher of Durham, N.C., and Amy of
+ Calgary, Alberta; and two grand-
+ A memorial service will be held
+ at 8:30 p.m. tomorrow in Dynamics
+ Research Corp., Frontage Road, An-
+ dover. . Ɬ
+35ꞭҨCBS Inc., 51 W. 52nd St., New York 10019ҨPALEY, WILLIAM S.ҨChrm & FounderҨ CBS founder William S. Paley, 89
+ 
+ Associated Press
+ 
+ NEW YORK William S. Pa-
+ ley, who cultivated a fledgling ra-
+ dio network into the $3 billion-a-
+ year communications conglomer-
+ até CBS Inc., was remembered by
+ colleagues Saturday as a brilliant
+ pioneer in broadcasting.
+ 
+ They re-
+ called his pro-
+ gramming ge-
+ nius for both
+ high art and
+ mass-entertain-
+ ment programs,
+ as well as a
+ deep commit-
+ 
+  ment to the
+ MR. PALE news.
+ Anyone
+ with means can collect Picassos
+ and Gauguins, but it took a Bill
+ Paley to collect Jack Bennys and
+ Jackie Gleasons, Lucille Balls
+ and Mary Tyler Moores and, at
+ the same time, Ed Murrows, Eric
+ Sevareids, Charles Collingwoods
+ and Walter Cronkites, said Don
+ Hewitt, executive producer of 60
+ Minutes.
+ 
+ Mr. Paley, 89, died Friday night
+ in his Manhattan home. The
+ cause of death was believed to be
+ a heart attack brought on by
+ pneumonia, CBS said in a state-
+ ment Saturday,
+ 
+ Mr. Paley bought a handful of
+ struggling radio stations in 1929
+ for $400,000 and built them into
+ one of the worlds most powerful
+ communications companies. For
+ more than 50 years, he controlled
+ the Columbia Broadcasting Sys-
+ tem as president or board chair-,
+ man of its radio and television
+ networks and its film, publishing,
+ recording and other subsidiaries.
+ 
+ The pioneer era in the history
+ of broadcasting dies with William
+ Paley, said Cronkite, a former
+ CBS anchorman. He understood,
+ as have few others, the necessity
+ of giving broadcast news a liberty
+ to perform without commercial or
+ political interference.
+ 
+ Paley is survived by four chil-
+ dren, two stepchildren and eight
+ grandchildren.
+ 
+ Funeral services will be private.
+ A memorial service was scheduled
+ Nov. 12 in New York. Ɬ

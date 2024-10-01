@@ -1,0 +1,316 @@
+I'm going to give you information and I want you to read it and answer questions. The text was transferred from image-text so some of it might not make much sense, use your best judgment to guess what certain words are. I will give you preliminary information in this format: (number)ҨcompanyҨnameҨpositionҨ. The number represnts the assinged number for each person. This will be followed by text that I want you to use to answer the following questions. I will give you multiple different texts separated by this symbol Ɬ, answer the questions for each text individually. You MUST BE 80% confident to answer, otherwise leave it blank. 1. Description: The company mentioned in prelimnary information also contains the location, just look at the first part of the text which doesnt have numbers as that contains the company name. If the company in preliminary information is present at all, check all text to ensure weather it is presnt or not present in the text, or a only certain parts of a company name, or a company which seems to have a similar name, say yes (sometimes it will be abberviated). Most of the time this answer will be yes. Answer: Yes or No 2. Co: Description: Do nothing with this. Leave blank. 3. Description: Based on their line of work, is it the same industry, a different industry, or multiple industries compared to the earlier company? Use the name of the listed company and see if it mentions that they did that work. Most of the time this answer will be same. Answer: Same, Different, or Multiple 4. At Time of Death - Still at Firm: Description: Were they still at the firm when they died, or had they already retired/changed to a different company? Most of the time this answer will be yes, only answer no if it specifically says they left the company before their death or retired. Answer: Yes or No 5. Title Change: Description: Is their title at the company different from the one listed in the preliminary information? If the answer to this is no leave it blank. Answer: Yes or leave blank 6. New Title: Description: Only answer if the Title Change answer was Yes. What is their new title? Answer: New Title 7. Year Started at Firm, or Years at Firm: Description: What year did they first start working at the firm listed, or how many years have they worked there? If this is not provided leave it blank. Answer: Year or Years 8. Year Started in Field, or Years in Field: Description: What year did they first start working in their field/industry, or how many years have they worked in their field? If this is not provided leave it blank. Answer: Year or Years 9. Initial Title: Description: What was their initial title when they first joined the company? Answer: Initial Title 10. Director's Relation to Our Firm or Sector: Description: All the following must refer to the company given in the preliminary information or the same sector as the company in the prelimnary information, otherwise leave blank. Work their way up to an executive position over time (Career), founded the company (Founder), family member who founded the company (Family Founder), serve as the lawyer for the company (Lawyer), travel around in meetings for the company (Itinerant), or previously founded/worked at a company and then instantly became an executive at the preliminary company (Capitalist)? Answer: Career, Founder, Family Founder, Itinerant, Capitalist, or Lawyer 11. Additional Info Related to Firm: Description: Did they have a bank seat at their firm? If No just leave it blank. Answer: Yes or leave blank 12. Other Directorships Mentioned: Description: Were there other companies they were associated with? Answer: Yes or No 13. Director's Main Sector: Description: What was the sector the director was primarily associated with? Answer: Sector 14. If Banker - Cbank or Ibank: Description: If their sector was banking, were they more associated with commercial or investment banking? Answer: Cbank or Ibank 15. University/College: Description: If they attended a university or college, what was the name of the school? Answer: Name of the School 16. Director's Main Company: Description: Is the company listed in the preliminary information their main company? Answer: Yes or No 17. Other Affiliated Companies: Description: If the answer to the previous question was No, name the company the director seemed most associated with. Answer: Company Name 18. Former CEO Now Director: Description: Were they formerly a CEO and are now just a director? If the answer is no just leave blank. Answer: Yes or leave blank 19. Additional Notes: Description: Leave blank most of the time, unless something goes very wrong, for example if there is almost no information, write 'no information' Answer: 'no information'. Instructions for Output Formatting: Answer all questions in the specified format. Do not repeat the titles of the answer choices in your response, or any text besides the exact output format shown later. Do not add extra text, line spaces, or enters between different sets of answers. The answers should be a continuous block of text, not a list format. For each question, use the question number followed by a period, then provide the answer directly after the period. If there is no answer for a question, leave it blank but still include the question number followed by a period. Always number from 1 to 19, ensuring that each question is accounted for. Include the assigned number in the format Ɬ(number)Ɬ at the beginning of each block of answers. Do not include any titles, like Text_1. Follow this Output exactly: Ɬ(assigned number)Ɬ1. answer 2. answer 3. answer 4. answer 5. answer 6. answer 7. answer 8. answer 9. answer 10. answer 11. answer 12. answer 13. answer 14. answer 15. answer 16. answer 17. answer 18. answer 19. answer42ꞭҨREFAC International, Limited, 100 E. 42nd St., New York 10017ҨSPERBER, PHILIPҨPres & DirҨ Philip Sperber, attorney
+ 
+ MORRIS TWP.  Philip Sperber,
+ a patent attorney known nationally
+ in the fields of technology, law and
+ engineering, died Wednesday from
+ 
+ _ injuries sustained in a car crash. He
+ 
+ was45. °
+ 
+ He was president of REFAC In-
+ ternational, a technology transfer
+ company in Manhattan and a subs-
+ idiary of REFAC Technology De-
+ velopment Corp.
+ 
+ Mr. Sperber was a vice president
+ and trustee of the parent corpora-
+ tion.
+ 
+ He was instrumental in develop-
+ ing the New Jersey Inventors Hall
+ of Fame and the New Jersey Writ-
+ ers Hall of Fame, for which he was
+ chairman of the board.
+ 
+ Mr. Sperber wrote more than 50
+ articles, which were featured in
+ Fortune, Investors Daily, Marquis-
+ Whos Who in the World, Whos Who
+ in Finance and Industry, Whos Who
+ in Engineering, Whos Who in
+ American Law and Contemporary
+ Authors.
+ 
+ He was an officer and/or board
+ member of numerous national
+ trade, professional and civic-orga-
+ nizations including the American
+ Academy of Negotiation and Diplo-
+ macy and Lions International.
+ 
+ He -earned the Presidential
+ Medal of Merit for service three
+ times and was named an outstand-
+ ing alumnus of the New Jersey In-
+ stitute of Technology in Newark in
+ 1981.
+ 
+ Mr. Sperber was also named an
+ Eminent Engineer by Tau Beta Pi,
+ the national engineering honor soci-
+ ety.
+ 
+ He was honored by the American
+ 
+ Marketing Association, Rutgers
+ University Graduate Business
+ School, the American Management
+ Association, the American Law In-
+ stitute, the Edward Weston Society
+ and New Jersey Writers Confer-
+ ence.
+ Mr. Sperber lived in the Convent
+ Station section of Morris Township
+ for nine years, He was born in New
+ York City and lived in Hanover
+ Township before moving to Morris
+ Township.
+ 
+ Philip Sperber
+ 
+ He received a bachelors degree
+ from NJIT in 1965 and a law degree
+ from the University of Maryland in
+ 1969, where he was an honor student
+ and served on the student council.
+ 
+ Mr. Sperber was a member of the
+ Morristown Jewish Center. He had
+ acquired 24 titles and trophies in
+ tennis and table tennis in local and
+ national tournaments.
+ 
+ He is survived by his wife,
+ Doreen; two sons, Ryan and Jason,
+ and two daughters, Shoshana and
+ Sara, all at home; his parents, Sol
+ and Sally of Deerfield Beach, Fla.;
+ and a brother, Martin of Cranford.
+ 
+ Arrangements are by Louis Sub-
+ urban Chapels, 70 Hudson St., Do-
+ ver.
+ 
+ Doris R. Yonitch
+ 
+ HACKETTSTOWN  Doris R.
+ Yonitch, a homemaker, died yester-
+ day at Hackettstown Community
+ Hospital after a long illness. She
+ was 65.
+ 
+ She was born in Newark and
+ lived in East Orange most of her
+ life before moving to Hackettstown
+ three years ago.
+ 
+ Mrs. Yonitch was a member of
+ the Order of the Eastern Star, South
+ Orange-Maplewood Chapter.
+ 
+ She is survived by two sons, Gary
+ of Byram and John of Key Largo,
+ Fla.; a daughter, Lorraine Skinner
+ of Hackettstown; a brother, Rich-
+ ard Denton of Old Bridge; a sister,
+ 
+ : Irene Hassleman of Clark: her step- Ɬ
+43ꞭҨArtkraft Strauss Sign Corp., 830 12th Ave., New York 10019ҨSTARR, MELVINҨPresҨ MELVIN STARR
+ 
+ Melvin Starr, 69, whose sign busi-
+ ness played a major role in lighting
+ up the Great White Way, died of a
+ heart attack yesterday at his home in
+ Riverdale, Bronx.
+ 
+ Starrs company, Artkraft Strauss,
+ at 57th St. and 12th Ave., built the
+ famous smoke-ring-blowing Camel
+ cigarets sign in Times Square. It also
+ did a blocklong waterfall sign for
+ Bond Clothes that later was taken
+ over by Pepsi-Cola.
+ 
+ His father designed and construct-
+ ed the first Times Square New Year's
+ Eve ball. which ushered in 1909, and
+ many of the earliest electric Times
+ Square signs.
+ 
+ The son carried on that tradition
+ and expanded into elaborate score-
+ board signs for Shea Stadium and oth-
+ er ballparks. He exported signs to Ni-
+ geria, Iceland and Peru. Last year he
+ restored the Carnegie Hall marquee.
+ 
+ Starr is survived by his wife, Jean;
+ his daughter, Tama, and a son, Jona-
+ than.
+ 
+ The funeral service will be at 10
+ a.m. tomorrow at Riverside Chapel,
+ 96th St. and Amsterdam Ave. Ɬ
+44ꞭҨNHP Corp., P.O. Box 401, Wyncote, Pa. 19095ҨSTEINER, ANDREW D.ҨChrm & PresҨ A. Steiner,
+ 
+ 49; headed
+ family firm
+ 
+ Andrew David Steiner, 49, of Am-
+ bler, president of NHP Corp. for the
+ last 20 years, was killed in a traffic
+ accident while driving to work
+ Wednesday morning.
+ 
+ T lost a best friend and adviser,
+ and I dont know how I could replace
+ him, said Robert I. Toll, chairman of
+ the board and CEO of Toll Bros. Inc.,
+ where Mr. Steiner was a board mem-
+ ber.
+ 
+ A 1963 graduate of St. John's Col-
+ lege in Annapolis, Md., Mr. Steiner
+ graduated from the University of
+ Pennsylvania School of Law in 1966.
+ 
+ While he enjoyed the law as an
+ intellectual activity, friends said, he
+ did not like practicing it, and he took
+ over Natural Health Products Corp., a
+ business that had been started by his
+ father. NHP Corp. manufactures vita-
+ mins and owns and operates a chain
+ of vitamin stores. Mr. Steiner also
+ owned a cookware store in Haverford.
+ 
+ But Mr. Steiner impressed and
+ sometimes amazed his friends as a
+ complex intellectual whose curiosity
+ recognized few boundaries.
+ 
+ After finishing his law studies, he
+ took courses in philosophy at Temple
+ University and according to friends
+ had a taste in reading that included
+ everything from ancient languages
+ to the latest junk novel.
+ 
+ He was admired for his business
+ sense as well. For 21 years, Mr.
+ Steiner served on the board of direc-
+ tors of Advanta, a financial services
+ company that operates a credit card
+ business, handles second mortgages
+ 
+ Andrew David Steiner
+ 
+ and owns Colonial National Bank in
+ Wilmington.
+ 
+ He was also named the first outside
+ director of Toll Bros, when the con-
+ struction company went public five
+ years ago.
+ 
+ He played tennis and enjoyed fish-
+ ing from his bass boat with his friends
+ and his son. Only recently, according
+ to Toll, he had found that the fishing
+ in the Schuylkill was fabulous. It was
+ his secret, Toll said,
+ 
+ And he loved to play cards.
+ 
+ He was so affable, Toll said. I
+ dont know anybody who met him
+ who didn't like him. But he was quiet;
+ he wasnt extroverted.... There was
+ laughter and joy about him. He could
+ laugh in the tensest of situations.
+ 
+ He was the president of the St.
+ Johns College Alumni Association.
+ 
+ He is survived by his wife, Lenore
+ Henly Steiner; daughter, Rebecca;
+ son, Andrew D. Jr.; parents, Ray-
+ mond and Marion, and a sister.
+ 
+ Memorial services will be at 3 p.m.
+ today at Joseph Levine & Son, 7112 N.
+ Broad St.
+ STEINER
+ 
+ Oct. 2, 1991, ANDREW DAVID STEINER, of Ambier,
+ husband of Lenore father
+ 
+ 5 (nee Henty), of Rebec-
+ ca Henly Steiner and David Steiner, Jr., son
+ Raymond and Marion Steiner, of Anita
+ Steiner. Rela and are to Memorial
+ Serivces, Fri. 3 PM, JOSEPH LEVINE AND SON,
+ N. St. above 71st Ave. int. The family
+ will return to the late respectfully re- Ɬ
+45ꞭҨOccidental International Corp., 1230 Ave. of The Americas, New York 10020ҨWALLACH, PHILIP C.ҨV-P (Investor Rel)Ҩ WALLACH, Philip C. died on
+ October 28, 1992 in Grenwich,
+ Connecticut. Vice President of
+ Occidental International Corp,, he
+ is survived by his wife, Magdalena
+ Carla Falkenberg Wallach.
+ Memorial Mass will be offered
+ Mam, Monday at St. Michaels
+ Catholic Church, Grenwich. Mem-
+ orjal contributions may be made to
+ the Grenwich Hospital Stroke Sup-
+ rl Group, Grenwich, CT 5
+ red D, Knapp & Son Funeral
+ me, Grenwich directors
+ Philip C. Wallach, 79
+ 
+ Was Occidental vice president
+ 
+ Philip Charles Wallach of Green-
+ wich, Conn., a former vice president
+ of Occidental Petroleum Corp., died
+ Oct. 28 in the Nathaniel Witherell
+ Home in Greenwich from the effects
+ of a stroke. He was 79.
+ 
+ Mr. Wallach was born in New
+ York and attended Washington Ir-
+ ving High School, Berkeley-Irving
+ Preparatory School in Tarrytown,
+ N.Y., and New York University.
+ 
+ He worked as a sportswriter for
+ the Journal-American and after
+ World War II service with the US
+ Army Air Force, he became editor of
+ Shell Oil News and then director of
+ public relations for W.R. Grace &
+ 
+ Co.
+ 
+ From 1958 to 1985 he headed his
+ own financial public relations firm of
+ Wallach & Associates in New York,
+ with a Boston affiliate of Cabot, Wal-
+ lach Associates.
+ 
+ He joined Occidental Petroleum
+ in 1985 as vice president in charge of
+ the New York office and in charge of
+ investor relations.
+ 
+ Mr. Wallach leaves his wife,
+ Magdalena Carla (Falkenberg) Wal-
+ lach, a writer.
+ 
+ A memorial service was held at
+ 11 a.m. Monday in St. Michaels
+ Church in Greenwich. Burial was
+ private. Ɬ

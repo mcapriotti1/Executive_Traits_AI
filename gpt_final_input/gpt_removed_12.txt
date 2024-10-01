@@ -1,0 +1,286 @@
+I'm going to give you information and I want you to read it and answer questions. The text was transferred from image-text so some of it might not make much sense, use your best judgment to guess what certain words are. I will give you preliminary information in this format: (number)ҨcompanyҨnameҨpositionҨ. The number represnts the assinged number for each person. This will be followed by text that I want you to use to answer the following questions. I will give you multiple different texts separated by this symbol Ɬ, answer the questions for each text individually. You MUST BE 80% confident to answer, otherwise leave it blank. 1. Description: The company mentioned in prelimnary information also contains the location, just look at the first part of the text which doesnt have numbers as that contains the company name. If the company in preliminary information is present at all, check all text to ensure weather it is presnt or not present in the text, or a only certain parts of a company name, or a company which seems to have a similar name, say yes (sometimes it will be abberviated). Most of the time this answer will be yes. Answer: Yes or No 2. Co: Description: Do nothing with this. Leave blank. 3. Description: Based on their line of work, is it the same industry, a different industry, or multiple industries compared to the earlier company? Use the name of the listed company and see if it mentions that they did that work. Most of the time this answer will be same. Answer: Same, Different, or Multiple 4. At Time of Death - Still at Firm: Description: Were they still at the firm when they died, or had they already retired/changed to a different company? Most of the time this answer will be yes, only answer no if it specifically says they left the company before their death or retired. Answer: Yes or No 5. Title Change: Description: Is their title at the company different from the one listed in the preliminary information? If the answer to this is no leave it blank. Answer: Yes or leave blank 6. New Title: Description: Only answer if the Title Change answer was Yes. What is their new title? Answer: New Title 7. Year Started at Firm, or Years at Firm: Description: What year did they first start working at the firm listed, or how many years have they worked there? If this is not provided leave it blank. Answer: Year or Years 8. Year Started in Field, or Years in Field: Description: What year did they first start working in their field/industry, or how many years have they worked in their field? If this is not provided leave it blank. Answer: Year or Years 9. Initial Title: Description: What was their initial title when they first joined the company? Answer: Initial Title 10. Director's Relation to Our Firm or Sector: Description: All the following must refer to the company given in the preliminary information or the same sector as the company in the prelimnary information, otherwise leave blank. Work their way up to an executive position over time (Career), founded the company (Founder), family member who founded the company (Family Founder), serve as the lawyer for the company (Lawyer), travel around in meetings for the company (Itinerant), or previously founded/worked at a company and then instantly became an executive at the preliminary company (Capitalist)? Answer: Career, Founder, Family Founder, Itinerant, Capitalist, or Lawyer 11. Additional Info Related to Firm: Description: Did they have a bank seat at their firm? If No just leave it blank. Answer: Yes or leave blank 12. Other Directorships Mentioned: Description: Were there other companies they were associated with? Answer: Yes or No 13. Director's Main Sector: Description: What was the sector the director was primarily associated with? Answer: Sector 14. If Banker - Cbank or Ibank: Description: If their sector was banking, were they more associated with commercial or investment banking? Answer: Cbank or Ibank 15. University/College: Description: If they attended a university or college, what was the name of the school? Answer: Name of the School 16. Director's Main Company: Description: Is the company listed in the preliminary information their main company? Answer: Yes or No 17. Other Affiliated Companies: Description: If the answer to the previous question was No, name the company the director seemed most associated with. Answer: Company Name 18. Former CEO Now Director: Description: Were they formerly a CEO and are now just a director? If the answer is no just leave blank. Answer: Yes or leave blank 19. Additional Notes: Description: Leave blank most of the time, unless something goes very wrong, for example if there is almost no information, write 'no information' Answer: 'no information'. Instructions for Output Formatting: Answer all questions in the specified format. Do not repeat the titles of the answer choices in your response, or any text besides the exact output format shown later. Do not add extra text, line spaces, or enters between different sets of answers. The answers should be a continuous block of text, not a list format. For each question, use the question number followed by a period, then provide the answer directly after the period. If there is no answer for a question, leave it blank but still include the question number followed by a period. Always number from 1 to 19, ensuring that each question is accounted for. Include the assigned number in the format Ɬ(number)Ɬ at the beginning of each block of answers. Do not include any titles, like Text_1. Follow this Output exactly: Ɬ(assigned number)Ɬ1. answer 2. answer 3. answer 4. answer 5. answer 6. answer 7. answer 8. answer 9. answer 10. answer 11. answer 12. answer 13. answer 14. answer 15. answer 16. answer 17. answer 18. answer 19. answer40ꞭҨR. E. Scott Mortgage Co., One Industrial Way, Eatontown, N. J. 07724ҨSCOTT, ROBERT EDWIN, JR.ҨPresҨ Robert Scott Jr., mortgage banker
+ 
+ BRIELLE  Robert E. Scott
+ Jr., 47, a borough resident who had
+ been promoted two months ago to
+ manage the finances of one of the
+ states largest developers, died Fri-
+ day at Elizabeth General Medical
+ Center, Elizabeth, after a sudden,
+ undisclosed illness.
+ 
+ f Mr. Scott was Vice President for
+ Finance at K. Hovnanian Enterpris-
+ es, Middletown Township, the
+ states largest home builder, and
+ president of its mortgage banking
+ subsidiary, R. E. Scott Mortgage Co.,
+ Elizabeth.
+ 
+ Among the survivors are his
+ oldest son, Robert E. III, who will be
+ graduated from Monmouth College
+ today, and Steven T., who will be
+ graduated from Christian Brothers
+ Academy, Middletown Township,
+ later this month.
+ 
+ Also surviving are his wife, the
+ former Barbara Hauser, owner of a
+ Brielle gift shop; a third son, Charles
+ W.; two brothers, Richard E., Red
+ Bank, and Randolph E., Eatontown;
+ and his mother, Ruth E. (Gabler)
+ Scott.
+ 
+ R.E. Scott was founded by Mr.
+ Scotts father, Robert E. Scott Sr., in
+ 1948, and was sold to K. Hovnanian
+ for an undisclosed price in 1983.
+ The younger Scott was president of
+ the companys branches in Eaton-
+ town and Cranford for 22 years.
+ 
+ As president of R.E. Scott, he
+ supervised a staff of 65 and managed
+ a $250 million mortgage portfolio on
+ New Jersey and Florida properties.
+ He was also past president of two
+ affiliated companies, RESCO Devel-
+ opment Corp. and the R.E. Scott
+ School of Real Estate, both in Eliza-
+ beth, for many years.
+ 
+ He was considered to be one of
+ the more energetic people in the in-
+ dustry, said Frank L. Bowersox, ex-
+ ecutive vice president and chief op-
+ erating officer at R.E. Scott. He had
+ a lot of plans in front of him.
+ 
+ He was well respected and well
+ known in the business and well liked
+ by his staff, Bowersox said. He
+ was the kind of guy who worked
+ seven days a week, 12 hours a day.
+ Were certainly going to miss him.
+ 
+ Mr. Scott was past president of
+ the Eastern Union County Board of
+ Realtors, and the Educational Foun-
+ dation of the New Jersey Mortgage
+ Bankers Assoc., chairman of the
+ Taxation Committee of the
+ N.J.A.R., and the Legislative Com-_
+ mittee of the Mortgage Bankers
+ Assoc. of New Jersey, and of the
+ Mortgage Bankers Political Action
+ Committee of New Jersey.
+ 
+ In the mid-1970s, Mr. Scott was
+ a leader in efforts to reform property
+ taxes in New Jersey, often speaking
+ on the implications of property tax
+ relief on the home building industry.
+ 
+ Mr. Scott was co-chairman of
+ the legislative committee of the
+ N.J.A.R, the director of the New
+ Jersey Taxpayers Assoc., the Union
+ County Multiple Listings Service,
+ the Builders Assoc. of Metropolitan
+ New Jersey, and the Home-to-Home
+ Real Estate Network.
+ 
+ He was a member and youngest
+ president of the New Jersey Mort-
+ gage Bankers Assoc., Union, a mem-
+ ber of the Mortgage Bankers Assoc.
+ of America, the New Jersey Assoc. of
+ Realtors Boards, the New Jersey
+ Assoc. of Realtors, the N.J. Assoc. of
+ Home Builders, and the National
+ Assoc. of Home Builders.
+ 
+ Mr. Scott was a 1962 graduate
+ of Dartmouth College, earning a
+ B.A. in business; a 1964 graduate of
+ the American Institute of Real Es-
+ tate Appraisers and a 1966 graduate
+ of Realtors National Marketing in- 
+ stitute. He earned a New Jersey ~
+ Mortgage Banker license in 1982.
+ 
+ Leonard Home for Funerals,
+ Elizabeth, is in charge of arrange-
+ ments.
+ Robert E. Scott Jr., led many
+ statewide real estate groups
+ 
+ WALL TOWNSHIP  Robert E.
+ Scott Jr., 47, died Friday (May 20,
+ 1988) at Elizabeth General Medical
+ Center.
+ 
+ He was born in Rahway and lived
+ in Scotch Plains, Lincroft and Manas-
+ quan before moving to the Brielle
+ section five years ago.
+ 
+ He was president for 22 years of
+ R.E. Scott Mortgage Co., formerly of
+ Elizabeth and now of Eatontown and
+ Cranford. He also was vice president
+ of finance for two months for K. Hov-
+ nanian Enterprises in Red Bank. Be-
+ fore that he was president for many
+ years of RESCO Development Corp.
+ and the R.E. Scott School of Real
+ Estate, both in Elizabeth.
+ 
+ He was a past president of the
+ Eastern Union County Board of Real-
+ tors in 1973 and the Educational
+ Foundation of the N.J. Mortgage
+ Bankers Association in 1978. He was
+ chairman of the Taxation Committee
+ of the N.J. Association of Realtors,
+ the legislative committee of the
+ Mortgage Bankers Association of
+ N.J. and the Mortgage Bankers Polit-
+ ical Action Committee of N.J., and
+ co-chairman of the legislative com-
+ 
+ mittee of the N.J. Association of
+ Realtors. He was director of the N.J.
+ Taxpayers Association, the Union
+ County Multiple Listing Service dur-
+ ing the 1970s, Builders Association of
+ Metropolitan N.J. in the 1980s and the
+ Home-to-Home Real Estate Net-
+ work,
+ 
+ He was the youngest president of
+ the N.J. Mortgage Bankers Associa-
+ tion and a member of the Mortgage
+ Bankers Association of America, N.J.
+ Association of Realtors Boards, the
+ National Association of Realtors, the
+ N.J. Association of Home Builders
+ and the National Association of Home
+ Builders.
+ 
+ He was a trustee for the Everett
+ Civic Association in Lincroft and a
+ member and trustee of the Manas-
+ quan River Marlin and Tuna Club.
+ 
+ Surviving are his wife, Barbara
+ Hauser Scott, three sons, Robert E.
+ III, Charles W. and Steven T., all at
+ home; two brothers, Richard E. of
+ Red Bank and Randolph E. of Eaton-
+ town, and his mother, Ruth E. Gabler
+ Scott.
+ 
+ Arrangements are by Leonard
+ Home for Funerals in Elizabeth. Ɬ
+41ꞭҨChemi-Trol Chemical Co., 1500 Walter Ave., Fremont, Ohio 43420ҨSIMCOX, ROBERT K.ҨDirҨ ee) a ae . ne ie
+ 
+ Lightening kills
+ two N.C. golfers
+ 
+ ETOWAH, N.C.  Two golf-
+ ers were killed by a lightning bolt
+ Saturday afternoon, one day after
+ another golfer in Henderson
+ County was struck by lightning,
+ authorities said.
+ 
+ Robert K. Simcox, 67, of Cum-
+ mings Cove and Eric Allen Sim-
+ cox, 31, of Perrysburg, Ohio, were
+ golfing at Cummings Cove Golf
+ Course, sheriffs officials said in 2
+ statement.
+ 
+ A man who lives on the 17th
+ green saw two bodies lying under
+ a tree about 8 p.m., said Joe Mat-
+ thews, a maintenance supervisor
+ at the golf course.
+ 
+ Complied from Associated Press, Knight-Rid-
+ 
+ der, New York Times, Los Angeles Times and
+ Washington Post reports.
+ Lightning
+ kills two
+ 
+ Robert Simcox, son
+ die in North Carolina
+ 
+ News-Messenger reports
+ 
+ ETOWAH, N.C.  A former
+ Chemi-Trol Chemical executive
+ who was active in community
+ service in Sandusky County and
+ his son were killed Saturday af-
+ ternoon by a bolt of lightning
+ while golfing in this North Caro-
+ lina town
+ 
+ Robert K. Simcox, 67, 2050 Golf
+ Side Lane, Hendersonville, N.C.,
+ died while trying to seek cover
+ from an approaching storm, au-
+ thorities said. He had retired as
+ general manager of Cal-Van
+ Tools Division of Chemi-Trol
+ Chemical Co., 1500 Walter Ave.,
+ after 27-years of service.
+ 
+ Simcoxs 31-year-old son, Eric
+ Allen Simcox, 9534 Mandell
+ Road, Perrysburg, died with his
+ father after the two tried to seek
+ cover under a tree as a storm
+ suddenly approached Cummings
+ Cove Golf Course, sheriffs of 
+ cials reported.
+ 
+ The elder Simcox, who was a
+ director of Chemi-Trol, moved to
+ 
+ ROBERT SIMCOX
+ 
+ Hendersonville, N.C., after his
+ retirement July 1, 1988, said Bob
+ Woolf, president of the company.
+ Eric Simcox also worked for
+ Chemi-Trol for two years.
+ A son, John Simcox, is the gen-
+ 
+ See SIMCOX, A-2
+ Lightning Strikes, Kills Two Golfers In N.C.
+ 
+ ETOWAH, N.C. (AP)  A father
+ and his son were killed Saturday by
+ a lightning strike as they waited out
+ a storm under a tree while golfing,
+ authorities said.
+ 
+ The bodies of Robert K. Simcox,
+ 67, and Eric Allen Simcox, 31, were
+ found lying under a tree on the Cum-
+ 
+ mings Cove Golf Course, Henderson
+ County sheriff's officials said in a
+ statement.
+ 
+ The elder Simcox, from Cum-
+ mings Cove, and his son, from Per-
+ rysburg, had been
+ golfing for about three hours. A
+ nearby resident found their bodies. Ɬ

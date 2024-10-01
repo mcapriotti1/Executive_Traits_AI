@@ -1,0 +1,291 @@
+I'm going to give you information and I want you to read it and answer questions. The text was transferred from image-text so some of it might not make much sense, use your best judgment to guess what certain words are. I will give you preliminary information in this format: (number)ҨcompanyҨnameҨpositionҨ. The number represnts the assinged number for each person. This will be followed by text that I want you to use to answer the following questions. I will give you multiple different texts separated by this symbol Ɬ, answer the questions for each text individually. You MUST BE 80% confident to answer, otherwise leave it blank. 1. Description: The company mentioned in prelimnary information also contains the location, just look at the first part of the text which doesnt have numbers as that contains the company name. If the company in preliminary information is present at all, check all text to ensure weather it is presnt or not present in the text, or a only certain parts of a company name, or a company which seems to have a similar name, say yes (sometimes it will be abberviated). Most of the time this answer will be yes. Answer: Yes or No 2. Co: Description: Do nothing with this. Leave blank. 3. Description: Based on their line of work, is it the same industry, a different industry, or multiple industries compared to the earlier company? Use the name of the listed company and see if it mentions that they did that work. Most of the time this answer will be same. Answer: Same, Different, or Multiple 4. At Time of Death - Still at Firm: Description: Were they still at the firm when they died, or had they already retired/changed to a different company? Most of the time this answer will be yes, only answer no if it specifically says they left the company before their death or retired. Answer: Yes or No 5. Title Change: Description: Is their title at the company different from the one listed in the preliminary information? If the answer to this is no leave it blank. Answer: Yes or leave blank 6. New Title: Description: Only answer if the Title Change answer was Yes. What is their new title? Answer: New Title 7. Year Started at Firm, or Years at Firm: Description: What year did they first start working at the firm listed, or how many years have they worked there? If this is not provided leave it blank. Answer: Year or Years 8. Year Started in Field, or Years in Field: Description: What year did they first start working in their field/industry, or how many years have they worked in their field? If this is not provided leave it blank. Answer: Year or Years 9. Initial Title: Description: What was their initial title when they first joined the company? Answer: Initial Title 10. Director's Relation to Our Firm or Sector: Description: All the following must refer to the company given in the preliminary information or the same sector as the company in the prelimnary information, otherwise leave blank. Work their way up to an executive position over time (Career), founded the company (Founder), family member who founded the company (Family Founder), serve as the lawyer for the company (Lawyer), travel around in meetings for the company (Itinerant), or previously founded/worked at a company and then instantly became an executive at the preliminary company (Capitalist)? Answer: Career, Founder, Family Founder, Itinerant, Capitalist, or Lawyer 11. Additional Info Related to Firm: Description: Did they have a bank seat at their firm? If No just leave it blank. Answer: Yes or leave blank 12. Other Directorships Mentioned: Description: Were there other companies they were associated with? Answer: Yes or No 13. Director's Main Sector: Description: What was the sector the director was primarily associated with? Answer: Sector 14. If Banker - Cbank or Ibank: Description: If their sector was banking, were they more associated with commercial or investment banking? Answer: Cbank or Ibank 15. University/College: Description: If they attended a university or college, what was the name of the school? Answer: Name of the School 16. Director's Main Company: Description: Is the company listed in the preliminary information their main company? Answer: Yes or No 17. Other Affiliated Companies: Description: If the answer to the previous question was No, name the company the director seemed most associated with. Answer: Company Name 18. Former CEO Now Director: Description: Were they formerly a CEO and are now just a director? If the answer is no just leave blank. Answer: Yes or leave blank 19. Additional Notes: Description: Leave blank most of the time, unless something goes very wrong, for example if there is almost no information, write 'no information' Answer: 'no information'. Instructions for Output Formatting: Answer all questions in the specified format. Do not repeat the titles of the answer choices in your response, or any text besides the exact output format shown later. Do not add extra text, line spaces, or enters between different sets of answers. The answers should be a continuous block of text, not a list format. For each question, use the question number followed by a period, then provide the answer directly after the period. If there is no answer for a question, leave it blank but still include the question number followed by a period. Always number from 1 to 19, ensuring that each question is accounted for. Include the assigned number in the format Ɬ(number)Ɬ at the beginning of each block of answers. Do not include any titles, like Text_1. Follow this Output exactly: Ɬ(assigned number)Ɬ1. answer 2. answer 3. answer 4. answer 5. answer 6. answer 7. answer 8. answer 9. answer 10. answer 11. answer 12. answer 13. answer 14. answer 15. answer 16. answer 17. answer 18. answer 19. answer23ꞭҨHach Co., 57th & Lindburgh, Loveland, Colo. 80537ҨHACH, CLIFFORD CHARLESҨChrm & Tech DirҨ Ames chemical company
+ founder Hach dies at 70
+ 
+ By JEFFREY BRUNER
+ Register Stan writer
+ 
+ Clifford Hach, 70, a noted Iowa inventor and founder of an Ames chemical
+ company, died Thursday after spending the week tinkering in his laboratory,
+ trying to come up with a better way to do something.
+ 
+ Mr. Hach was respected worldwide as an authority on water analysis and
+ soil testing. He was a prolific inventor in analytical chemistry, and his inven-
+ tions and analytical procedures found wide acceptance among agricultural
+ chemists and those working in the field of water analysis.
+ 
+ Mr. Hach and his wife, Kathryn, founded the Hach Co, in Ames in 1948. In
+ 1977, they moved the companys headquarters to Loveland, Colo., where he
+ died of a heart attack. The company still has a distribution center in Ames.
+ 
+ Robert Hansen, a chemistry professor at lowa State University, said Mr.
+ Hach was a hard-working man,
+ 
+ He drove himself very hard, especially when his company was starting,
+ Hansen said, He couldn't imagine anyone who went only 40 hours a week.
+ 
+ Indeed, Mr. Hach once said, The most persistent problem of my life has
+ been chronic impatience.
+ 
+ He was responsible for many inventions, including the turbidimeter, which
+ measures the clarity of liquids, and automated analyzers for controlling water
+ treatment.
+ 
+ Mr. Hach was born in Clutier and was reared on a farm near Green Moun-
+ tain, He graduated from Iowa State University with a degree in chemistry.
+ 
+ Hansen said Mr. Hach founded the chemical company with Harvey Diehl, a
+ retired ISU chemistry professor. Dieh! later sold his share of the company
+ after their friendship soured, Hansen said.
+ 
+ Diehl declined to talk about his relationship with Mr. Hach.
+ 
+ Mr. Hach is survived by his wife; two sons, Bruce Hach and Paul Hach; a
+ daughter, Mary Gibbs; and eight grandchildren, all of Loveland.
+ 
+ Memoria! contributions may be made to the Hach Scientific Foundation,
+ which provides college scholarships for chemistry students. Ɬ
+24ꞭҨEverest & Jennings, International Ltd., 2310 S. Sepulveda Blvd., Los Angeles 90064ҨJENNINGS, GERALD M.ҨChrmҨ Gerald Jennings; Ran Wheelchair Firm
+ 
+ A memorial service has been
+ scheduled Friday at 2 p.m. at the
+ First United Methodist Church in
+ Santa Monica for Gerald M. Jen-
+ nings, chairman of the worlds
+ largest manufacturer of wheel-
+ chairs.
+ 
+ Jennings was 70 when he died
+ Sunday at UCLA Medical Center of
+ 
+ ive heart failure.
+ 
+ The Everest & Jennings medical
+ supplies corporation, now based in
+ Camarillo, was started in a family
+ garage in Los Angeles by Jennings
+ father. Gerald Jennings once esti-
+ mated that while he was at Everest
+ & Jennings, the company produced
+ 3 million wheelchairs.
+ 
+ Born in Topeka, Kan., Jennings
+ moved to California as a youngster
+ and later attended Santa Monica
+ 
+ career officer after World War II
+ 
+ military service but returned home
+ instead to help his fathers fledg-
+ ling wheelchair business.
+ 
+ Jennings retired as president in
+ 1985 but continued as chairman.
+ 
+ Jennings was on the boards of
+ directors of First Federal Bank of
+ California from 1967-89 and for a
+ decade before that at Santa Monica
+ Bank. He was chairman of the
+ board of trustees of Santa Monica
+ Hospital Medical Center and chair-
+ man of the board of directors of the
+ Santa Monica Hospital Medical
+ Center Foundation.
+ 
+ He was also chairman of the
+ UCLA School of Dentistry's board
+ of counselors and benefactor of the
+ schools Wilson, Jennings, Bloom-
+ field Dental Clinic in Venice. He
+ served on the UCLA Medical Cen-
+ ter board of advisers.
+ 
+ Jennings is survived by his wife,
+ Elizabeth, and two sons. Ɬ
+25ꞭҨDel Rayo Racing Stables, P.O. Box 8382, Rancho Santa Fe, Cal. 92067ҨKLEIN, EUGENE V.ҨOwnerҨ HBA
+ Head pane gadis 2
+ 8: 4328 $8 He: HT
+ (neil ven
+ 
+ aetfetatedest
+ BE salle dl
+ 
+ time success
+ 
+ tory his Chargers never could de-
+ 
+ liver.
+ 
+ Colors
+ 
+ inning
+ 
+ Hat T nip
+ TH
+ 
+ ie
+ 
+ |
+ 
+ Wi
+ 
+ Ly
+ 
+ eins fighting spirit bred life
+ 
+ from Barron Hilton. His blue and gave Klein the ultimate sports vic-
+ 
+ 1984 after
+ Like a lightning bolt
+ Klein stormed racing
+ 
+ Eugene V. Klein, who died yesterday in Califor-
+ nia at the age of 69, will be remembered as the
+ dominant thoroughbred owner of the 1980s, even
+ though he came to the game and left it in a
+ veritable flash, much like the gold lightning bolt
+ that slashed across his blue racing silks.
+ 
+ At the time he put his all-star stable up for
+ auction last Nov, 6 at Keeneland, Klein had only
+ been in the game for around six years, a pittance
+ compared with the lifelong devotion of such estab-
+ lishment owners as Ogden Phipps, Paul Mellon and
+ the late John Galbreath.
+ 
+ é a ht V
+ ly brief span, Klein won i i
+ jritually eeenaniy Klein won virtually
+ and race worth win.  @Very trophy and
+ ning, including the 1988 race worth
+ 
+ Kentucky Derby with winning, including
+ the powerful gray filly
+ 
+ Winning Colors. Anoth- the 1988 Kentucky
+ er of his fillies, Lady's Derby.
+ 
+ Secret, was the 1986. .
+ 
+ Horse of the Year.
+ 
+ He and his trainer,
+ 
+ D. Wayne Lukas, annually turned the $10 million
+ Breeders Cup programs into their personal show-
+ cases,
+ 
+ Of the first 42 races, each of which carries a
+ purse of at least $1 million, Klein's horses won
+ seven, a record.
+ 
+ So enormous was his success  he won Eclipse
+ Awards as the nations leading owner in 1985, 1986
+ and 1987  that everybody in the business was
+ shocked last June when Klein announced he was
+ getting out of the business. The reason, he said,
+ was so he could smell the roses.
+ 
+ Ready to relax
+ 
+ This was a very personal decision, Klein said
+ last fall. I've worked pretty hard in my life, and
+ I've never had a sustained period of time off. Now I
+ want to travel, to enjoy my wife, my children, my
+ grandchildren, my friends.
+ 
+ A smile twitching under his walrus-style mus-
+ tache, Klein insisted that he might someday want
+ to return to the game, the proof of which was that
+ he planned to keep Rancho del Rayo, the 250-acre
+ training center outside San Diego that's surrounded
+ by a real-estate development.
+ 
+ In retrospect, perhaps Klein knew something
+ about his health that he didnt want to disclose
+ publicly. Last November, as he watched his fine
+ horses being sold, one after the other, he masked
+ his emotions better than his wife, Joyce, who sat on
+ the edge of her chair, snapping photographs that
+ she framed through teary eyes.
+ 
+ A native New Yorker, Klein was a self-made
+ man who began his career by selling encyclopedias
+ to work his way through New York University. He
+ interrupted his education to enroll in the US. Army
+ Air Corps.
+ 
+ Moving to California after the war, Klein began
+ selling used cars. He moved from that to introduc-
+ ing the Volvo to the United States, after which he
+ became chief executive officer of a failing theater
+ and television chain, which he renamed the Nation-
+ al General Corporation.
+ 
+ By the time he sold his interest in the mid-
+ 1970s, National General had become a conglomer-
+ ate with assets of more than $1 billion. That
+ enabled him to turn his full attention to the San
+ Diego Chargers football team, his toy/business
+ since the early 1960s.
+ 
+ Under Klein's ownership, the Chargers never
+ made it to the Super Bowl, but they did become one
+ of the National Football League's more successful
+ teams behind Coach Don Coryell. Klein later used
+ their insignia and colors in his racing silks.
+ 
+ In 1984, Klein sold the Chargers for a reported
+ $40 million, partly because of a heart attack he
+ suffered earlier in the year, but mostly because he
+ was fed up with the players and their problems. In
+ horse racing, he found a new sporting interest that
+ was less frustrating and more rewarding.
+ 
+ Once he plunged into racing, the smartest thing
+ he did  and Klein was always the first to admit it
+  was to hook up with Lukas, who was then just
+ beginning to redefine the training business. Togeth-
+ er, they became the most formidable team in the
+ game.
+ 
+ Smooth sailing from the start
+ 
+ Klein never really had to struggle, as even the
+ wealthiest owners have to do at various points in
+ their careers, and so he never seemed to fully
+ appreciate how fortunate he was.
+ 
+ He seemed to think the game was easy, and
+ that rankled those who felt he hadn't paid his dues.
+ 
+ The low point of Klein's career came after the
+ 1988 Preakness, when he ri veteran trainer
+ Woody Stephens and jockey Pat Day for the tactics
+ they used against Winning Colors with Forty
+ Niner, the fine Claiborne Farm colt.
+ 
+ Determined not to let Winning Colors have the
+ lead unchallenged, as she had in the Derby, Day
+ and Forty Niner made her run every step in the
+ early eee Tee Bets Ole ees
+ that ii bumping even took place on the back
+ stretch.
+ 
+ At the end, Winning Colors finished third and
+ Forty Niner up the track in a race won by Risen
+ Star, but Klein said his fillys chances were compro-
+ mised by Forty Niner. Although Stephens and Day
+ denied being guilty of anything more than trying to
+ win the race, Daily Racing Form took Klein's
+ side in a rare front-page editorial.
+ 
+ As it turned out, that was Klein's last hurrah.
+ The firestorm eventually flickered out, even if the
+ hard feelings smoldered beneath the surface.
+ 
+ By last November, however, Klein seemed at
+ peace with himself. Sad as he was to see his
+ wonderful horses being sold, he also was excited
+ about the future  a future, as it turned out, that
+ was all too brief. Ɬ
