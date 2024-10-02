@@ -12,6 +12,7 @@ import pyperclip
 import pandas as pd
 import re
 from pyppeteer.errors import ElementHandleError
+import shutil
 
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''Extracting Data'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
@@ -510,30 +511,75 @@ async def scrape_text_from_website():
             except Exception as e:
                 output_file.write(f'An error occurred: {e}\n')
                 break
+                
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''Folder Formatting'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
+def move_folders(folders_to_move, target_folder):
+    """
+    Move specified folders to a target folder.
+
+    Parameters:
+    folders_to_move (list): List of folder paths to move.
+    target_folder (str): Path to the target folder where the folders will be moved.
+    """
+    # Create the target folder if it doesn't exist
+    os.makedirs(target_folder, exist_ok=True)
+
+    # Move each specified folder to the target folder
+    for folder in folders_to_move:
+        try:
+            # Get the folder name
+            folder_name = os.path.basename(folder)
+            
+            # Define the destination path
+            destination = os.path.join(target_folder, folder_name)
+            
+            # Move the folder
+            shutil.move(folder, destination)
+        except Exception as e:
+            # You can log the error instead of printing it
+            # For example, you could use logging
+            pass  # Optionally handle errors here (e.g., logging)
+
+# Example usage:
+if __name__ == "__main__":
+    folders = [
+        "text_files",
+        "gpt_input",
+        "gpt_final_input",
+        "ExcelSpreadsheets",
+        "excel_data",
+        "downloaded_images",
+    ]
+    target = "All_Inputs"
 
 
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''Delete All Files'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 def delete_all_files_in_folders(folder_paths):
     """
-    Delete all files in the specified folders.
+    Delete all files and subfolders in the specified folders, and then delete the folders themselves.
     
-    :param folder_paths: List of paths to the folders from which files need to be deleted.
+    :param folder_paths: List of paths to the folders to be deleted.
     """
     for folder_path in folder_paths:
         if not os.path.exists(folder_path):
-            print(f"The folder {folder_path} does not exist.")
-            continue
+            continue  # Skip if folder does not exist
         
-        for filename in os.listdir(folder_path):
-            file_path = os.path.join(folder_path, filename)
-            try:
-                if os.path.isfile(file_path):
-                    os.unlink(file_path)
-                    #print(f"Deleted file: {file_path}")
-                # If you want to delete subfolders as well, uncomment the following lines:
-                # elif os.path.isdir(file_path):
-                #     shutil.rmtree(file_path)
-            except Exception as e:
-                print(f"Failed to delete {file_path}. Reason: {e}")
+        try:
+            # Remove all contents (files and subfolders)
+            shutil.rmtree(folder_path)
+        except Exception as e:
+            # Handle the exception as needed (e.g., log it or raise)
+            pass  # Or log the error without printing
+
+# Example usage
+if __name__ == "__main__":
+    folders_to_delete = [
+        "text_files",
+        "gpt_input",
+        "gpt_final_input",
+        "ExcelSpreadsheets",
+        "excel_data",
+        "downloaded_images",
+    ]
